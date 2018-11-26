@@ -16,7 +16,7 @@ var connectedToNEONode = false
 //implement the message protocol
 func (h *Handler) OnReceive(tx neotx.TX) {
 	log.Printf("%+v", tx)
-	 if tx.Type.String() == "block"  || tx.Type.String() == "tx" {
+	 if tx.Type.String() == "block"{
 		log.Printf(" msg: %+v", tx.ID)
 		go sendMsg("{ \"Type\":"+ "\"" + tx.Type.String() + "\","+ "\"ID\":" +"\"" + tx.ID +  "\"}") 
 	 }
