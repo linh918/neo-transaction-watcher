@@ -31,9 +31,9 @@ func (h *Handler) OnError(e error) {
 	log.Printf("error %+v", e)
 	if e == io.EOF && connectedToNEONode == true {
 		connectedToNEONode = false
-		log.Printf("Disconnected from host. will try to connect in 5 seconds...")
+		log.Printf("Disconnected from host. will try to connect in 19 seconds...")
 		for {
-			time.Sleep(5 * time.Second)
+			time.Sleep(10 * time.Second)
 			//we need to implement backoff and retry to reconnect here
 			//if the error is EOF then we try to reconnect
 			go startConnectToSeed()
@@ -85,7 +85,7 @@ func failOnError(err error, msg string) {
 func sendMsg(msg string) {
 	log.Printf("%s", msg)	
 	const QUEUE_NEO_NOTIFICATION = "queue_neo_notification"
-	conn, err := amqp.Dial("amqp://deposit_neo:password@127.0.0.1:5672/")
+	conn, err := amqp.Dial("amqp://deposit_neo:password@127.0.0.1:5672")
 	failOnError(err, "Failed to connect to RabbitMQ")
 	defer conn.Close()
 	ch, err := conn.Channel()
