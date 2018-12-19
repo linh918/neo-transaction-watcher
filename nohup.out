@@ -1,0 +1,1625 @@
+
+2018/12/19 11:38:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[174 101 175 250] Payload:[]}
+2018/12/19 11:38:34 {Type:tx ID:ec9550d6d8af75bc6d5bd9e85377993547f06c94a96c5fd2ff0e9d0f8e26336a}
+2018/12/19 11:38:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[172 50 14 207] Payload:[]}
+2018/12/19 11:38:39 {Type:tx ID:0af1f3f08f0ea2371a91ef96ae507b5ef37bdc5017312da0ec7d99759be5a066}
+2018/12/19 11:38:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[72 171 59 244] Payload:[]}
+2018/12/19 11:38:40 {Type:tx ID:a1caa9407015fdcc9b4782194ace7f2e8a17244a545414cc2b808b06ee3e9458}
+2018/12/19 11:38:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[171 7 28 70] Payload:[]}
+2018/12/19 11:38:41 {Type:tx ID:1e34e97d2180bbb879cad977192779ba062c15669b12e31f3aea9ff3b7d3f19d}
+2018/12/19 11:38:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[169 119 125 104] Payload:[]}
+2018/12/19 11:38:41 {Type:tx ID:09174345ac489647487a0e873716868c7356cd8b3f1f0d3fcd52f86a12de507e}
+2018/12/19 11:38:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[215 184 206 21] Payload:[]}
+2018/12/19 11:38:43 {Type:consensus ID:fa3f2225d972123131a4de0047a4239501c7630127d589fba025896ea4a28181}
+2018/12/19 11:38:44 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[247 133 242 81] Payload:[]}
+2018/12/19 11:38:44 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[165 47 22 172] Payload:[]}
+2018/12/19 11:38:44 {Type:consensus ID:0dc3fe0e7f31d5a44c6f7f17182b6a2b7a5f7cd1c07617a324ef9e4337ff2732}
+2018/12/19 11:38:44 {Type:consensus ID:ddfac338b559237a28eedfa44bf719a7e583669e0bffeb47573d587c59ee4ec2}
+2018/12/19 11:38:44 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[234 141 125 217] Payload:[]}
+2018/12/19 11:38:44 {Type:consensus ID:0c152590b04915b64577db6fe577e9449365e16c21d887dfdefc5ee04ed3762c}
+2018/12/19 11:38:45 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[29 52 243 150] Payload:[]}
+2018/12/19 11:38:45 {Type:consensus ID:6a71bec28872f29fcc8c41e2a16de4530cc9aadd62935887c41a7bedff1ad96b}
+2018/12/19 11:38:45 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[215 49 178 251] Payload:[]}
+2018/12/19 11:38:45 {Type:tx ID:fd6f3193a15c798ef4c5439941c7bf5151305ea00c6143d8c01a02e8a3520243}
+2018/12/19 11:38:47 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[189 100 243 254] Payload:[]}
+2018/12/19 11:38:47 {Type:block ID:efda55fe2f82683cf6853aa860bff9f3b716d221cb37d144c89915e7485e7c9c}
+2018/12/19 11:38:47  msg: efda55fe2f82683cf6853aa860bff9f3b716d221cb37d144c89915e7485e7c9c
+2018/12/19 11:38:59 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[44 68 34 164] Payload:[]}
+2018/12/19 11:38:59 {Type:consensus ID:493065171a6d8236296437d442779f89c9a43b5f42d85d25e8676864f34c1294}
+2018/12/19 11:39:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[230 209 201 91] Payload:[]}
+2018/12/19 11:39:00 {Type:consensus ID:8802338aecb996bf4cba94e15ab3bad064796d06324241c399dc062d948b9bb0}
+2018/12/19 11:39:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[85 176 77 243] Payload:[]}
+2018/12/19 11:39:00 {Type:consensus ID:c907f2300674ca47cce1b971da95778c0f27a26b873eb7ed9fef7e2ab46477e0}
+2018/12/19 11:39:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[66 50 74 183] Payload:[]}
+2018/12/19 11:39:01 {Type:consensus ID:b158f96f4a1183a5bd311668bae1443946d49bd1aa748a4e089f83e837245565}
+2018/12/19 11:39:02 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[118 84 205 2] Payload:[]}
+2018/12/19 11:39:02 {Type:consensus ID:d5596d6b5f0046f37871000f72463ef5c7a74373749e42a623ab2110bdba1302}
+2018/12/19 11:39:03 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[186 65 112 247] Payload:[]}
+2018/12/19 11:39:03 {Type:consensus ID:e369392a36901b70ab4e88643f5fad3db0edc2eadb0eec6728b71468dd1303d9}
+2018/12/19 11:39:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[27 175 70 100] Payload:[]}
+2018/12/19 11:39:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[195 99 161 75] Payload:[]}
+2018/12/19 11:39:04 {Type:consensus ID:0491f8a04aea5df92ed4be139e9b068c53742bd3b274d641a09b624b3c92cc0f}
+2018/12/19 11:39:04 {Type:block ID:1db55c85ef4428cab92d8008af1d1cee0dce04d40b68e1c7760cccd3d3c392a1}
+2018/12/19 11:39:04  msg: 1db55c85ef4428cab92d8008af1d1cee0dce04d40b68e1c7760cccd3d3c392a1
+2018/12/19 11:39:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[50 55 98 45] Payload:[]}
+2018/12/19 11:39:06 {Type:tx ID:6bc7caa9b87c2bd9a702be31f4018465ec57421fbf180ac7a1032d1d2b9b2f01}
+2018/12/19 11:39:07 msg = &{Magic:7630401 Command:inv Length:66 Checksum:[2 61 18 106] Payload:[]}
+2018/12/19 11:39:07 {Type:tx ID:ff4a1e211187d9a74f0492f8faf2b4d926bb211b4e4a70b8225465bc14b383de}
+2018/12/19 11:39:07 {Type:tx ID:f7ecf2427f355fe634d29b8622cd2b47a1124f6d98b2749c1aa8e34187dfd1e9}
+2018/12/19 11:39:07 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[188 183 44 206] Payload:[]}
+2018/12/19 11:39:07 {Type:tx ID:279f1b437a2e05b604cab9496c66fcb35f6c59a4c43b4490d61c8ea57f75defa}
+2018/12/19 11:39:09 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[60 172 177 167] Payload:[]}
+2018/12/19 11:39:09 {Type:tx ID:ce753699c2b86f0d1b7cb00ea270331e71cf318111b268cf5b87a699abb466a9}
+2018/12/19 11:39:11 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[141 93 108 164] Payload:[]}
+2018/12/19 11:39:11 {Type:tx ID:667eab73741966827f393dda8a534f6784ae86bb758378b99f4d1307128fcdbf}
+2018/12/19 11:39:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[244 104 123 211] Payload:[]}
+2018/12/19 11:39:14 {Type:tx ID:f79e88ff09c99560a011aba57f496d02621345966e2a8f8a4d05fcf66ad17603}
+2018/12/19 11:39:17 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[194 243 129 153] Payload:[]}
+2018/12/19 11:39:17 {Type:tx ID:523f5625aab4d8da172a5a24591a43dd187f19ed797a10d91fdc3a0d23dd12dc}
+2018/12/19 11:39:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[139 173 199 200] Payload:[]}
+2018/12/19 11:39:19 {Type:consensus ID:da810570d2506ccc383f4c5fb32d581338f0121e5e041361b7b08ea6273667e3}
+2018/12/19 11:39:20 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[86 123 113 129] Payload:[]}
+2018/12/19 11:39:20 {Type:consensus ID:819c147adf6c0a7eed0113d205578e189381a9886acc7b29ab8cf63fe416af30}
+2018/12/19 11:39:20 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[177 219 233 68] Payload:[]}
+2018/12/19 11:39:20 {Type:consensus ID:604be16bf6c19b6bf1ebbea967e6e97de46e74d86fb1f570e3313cb65c66a4b8}
+2018/12/19 11:39:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[161 192 6 201] Payload:[]}
+2018/12/19 11:39:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[35 252 0 58] Payload:[]}
+2018/12/19 11:39:21 {Type:consensus ID:f8c34a9b9df6d81deb52adb85497a51c71412229c4b0540a198203c39f58b9ac}
+2018/12/19 11:39:21 {Type:consensus ID:00ca5450da9ce15dec47d78a9bc2cabdfbc4a6c85d775954528474604c5a2fef}
+2018/12/19 11:39:22 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[60 65 119 242] Payload:[]}
+2018/12/19 11:39:22 {Type:consensus ID:0084ed653bfb5779fb1b4eed51822ff9eea4a79798e0742130b45dd6fc026409}
+2018/12/19 11:39:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[132 62 197 251] Payload:[]}
+2018/12/19 11:39:23 {Type:block ID:18ece6d643e8afb1251a55130c4bcc8d345d2c6b1ffa8129531810556068bdc2}
+2018/12/19 11:39:23  msg: 18ece6d643e8afb1251a55130c4bcc8d345d2c6b1ffa8129531810556068bdc2
+2018/12/19 11:39:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[10 151 164 132] Payload:[]}
+2018/12/19 11:39:25 {Type:tx ID:33d53494b634c5226aec66d6827ff3217f07794acec21825000882ee18a84bab}
+2018/12/19 11:39:26 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[10 252 141 254] Payload:[]}
+2018/12/19 11:39:26 {Type:tx ID:1a0a56c9bf1bb1e3d43b15acb572e6a8e6871a58ba037554a778065a3874c87a}
+2018/12/19 11:39:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[170 96 208 227] Payload:[]}
+2018/12/19 11:39:30 {Type:tx ID:f02e043088b757af705c038f1faca21d7e63567b83924668093fb20b6c1cd4db}
+2018/12/19 11:39:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[81 200 46 52] Payload:[]}
+2018/12/19 11:39:31 {Type:tx ID:cbf29f195dd67f98c80854f6cc9aed3b3a9fbfd45755149d811a2399d303c22a}
+2018/12/19 11:39:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[134 143 162 39] Payload:[]}
+2018/12/19 11:39:37 {Type:consensus ID:5e0f76c9e249b7d9d389584803cc8f930e0270caee92e113f3f9dff0e60b5784}
+2018/12/19 11:39:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[179 133 81 133] Payload:[]}
+2018/12/19 11:39:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[128 112 228 158] Payload:[]}
+2018/12/19 11:39:37 {Type:consensus ID:22a3ae71f2e542eee160711df649b4f7f0945a37f962d3705ae8ad1d9716e4aa}
+2018/12/19 11:39:37 {Type:tx ID:80c73d635757c17fa1261cdbddc46778ee9022427afa29760fdddace1018a63d}
+2018/12/19 11:39:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[245 100 192 120] Payload:[]}
+2018/12/19 11:39:39 {Type:consensus ID:e903e20fdf4a9f3d806303ad7972d1dc2215dfe9055ef5072b2f3c0d298d1a11}
+2018/12/19 11:39:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[7 84 245 27] Payload:[]}
+2018/12/19 11:39:39 {Type:block ID:8f4fb7546cee146118caa61c2da49911bbb820e01a22e7bc7ccf9e2b774581f1}
+2018/12/19 11:39:39  msg: 8f4fb7546cee146118caa61c2da49911bbb820e01a22e7bc7ccf9e2b774581f1
+2018/12/19 11:39:55 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[173 12 121 55] Payload:[]}
+2018/12/19 11:39:55 {Type:tx ID:99b3e768f272f408ead865f0e418ab7f55f7a4b3f75824614e1646a629de5e87}
+2018/12/19 11:39:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[64 207 113 34] Payload:[]}
+2018/12/19 11:39:56 {Type:consensus ID:17bc9a97eef8ad2adb7ac7312a1e17416d67544b62b494a3aec43afabf827ca4}
+2018/12/19 11:39:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[66 250 35 118] Payload:[]}
+2018/12/19 11:39:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[51 95 31 167] Payload:[]}
+2018/12/19 11:39:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[41 143 169 75] Payload:[]}
+2018/12/19 11:39:56 {Type:block ID:1b2d93fdfee051f744795af867d031f17a632161e49416f67ba43669049d69dd}
+2018/12/19 11:39:56  msg: 1b2d93fdfee051f744795af867d031f17a632161e49416f67ba43669049d69dd
+2018/12/19 11:39:56 {Type:consensus ID:deca523c2a39d1892a4dd3e777cf00845747f0f6cd51a6550c9004252471b819}
+2018/12/19 11:39:56 {Type:consensus ID:5765d3cd0a7c236433b670acf3e77671347a4b4ba0d5856ec070b82db1e8fb32}
+2018/12/19 11:40:07 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[46 12 42 43] Payload:[]}
+2018/12/19 11:40:07 {Type:tx ID:6a68e1bb6349ac29f5ac4f6ebde8f881d2e5320cd6fc0569754cc877a0e93afb}
+2018/12/19 11:40:09 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[127 136 2 226] Payload:[]}
+2018/12/19 11:40:09 {Type:tx ID:1526f33fc6d61e32eaf2dcab3e2559b53561636155200679b3403190d6c7a1b7}
+2018/12/19 11:40:10 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[220 147 129 140] Payload:[]}
+2018/12/19 11:40:10 {Type:tx ID:7710eac026cda4c975bfb4622bea7695fb0c923a1b5801861a725c8f4dac0c9f}
+2018/12/19 11:40:12 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[110 51 29 170] Payload:[]}
+2018/12/19 11:40:12 {Type:consensus ID:4f187054595b797d36669b3220be79dcf2228c52f2b8808543b235dda9d3677e}
+2018/12/19 11:40:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[172 86 167 37] Payload:[]}
+2018/12/19 11:40:14 {Type:consensus ID:982e7c70323c172a34c6cb1771ed96dbccb5512cd1c75687585bce725a4a5623}
+2018/12/19 11:40:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[135 115 17 175] Payload:[]}
+2018/12/19 11:40:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[252 73 52 194] Payload:[]}
+2018/12/19 11:40:14 {Type:block ID:b53c2d6811289b1d0594852e30d4491b1f42ef00cec0c00839962456faeece11}
+2018/12/19 11:40:14  msg: b53c2d6811289b1d0594852e30d4491b1f42ef00cec0c00839962456faeece11
+2018/12/19 11:40:14 {Type:consensus ID:eadc4b73900ef216be36500b80e07aa72f69e41387266f35161696571046a822}
+2018/12/19 11:40:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[77 159 22 84] Payload:[]}
+2018/12/19 11:40:15 {Type:consensus ID:1c58479a16ca8267cd13f3c6cb3de232938c81f449a9aecddb0c25c6f44f76ef}
+2018/12/19 11:40:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[92 174 37 164] Payload:[]}
+2018/12/19 11:40:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[179 231 192 187] Payload:[]}
+2018/12/19 11:40:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[166 166 86 5] Payload:[]}
+2018/12/19 11:40:15 {Type:consensus ID:0e304a47d6ae2639f7d3576a946fce60fb697fc4836c9eff67fc1fd8a4e15ec5}
+2018/12/19 11:40:15 {Type:consensus ID:53d7873867c40c39b93db4681afdbe9e600be5e9b26b50f28d14f60aa60beb42}
+2018/12/19 11:40:15 {Type:consensus ID:f27f8d1a9cc34e3c14c470ae4d6f8858dec2a9c4bf31d0a63fdb6bbed1c13c1d}
+2018/12/19 11:40:17 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[63 246 182 84] Payload:[]}
+2018/12/19 11:40:17 {Type:tx ID:c24fda11ef4d3685ad900bbb3e6d0f53fe9bc0060dda445790c4b5f79c9d3f94}
+2018/12/19 11:40:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[184 130 169 233] Payload:[]}
+2018/12/19 11:40:19 {Type:tx ID:ff76dac0894472f77c5b995b8ec48d42c92e9517e8b80bc03488e5330b1c57db}
+2018/12/19 11:40:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[115 184 155 17] Payload:[]}
+2018/12/19 11:40:19 {Type:tx ID:286789741923347afed7f784d1bfc4f99c4475af66dd80c0aa7329ad1f6fbe64}
+2018/12/19 11:40:20 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[36 27 46 126] Payload:[]}
+2018/12/19 11:40:20 {Type:tx ID:a7c37bb4eb4155093718e1b7181679c19cc4c216d1a8cb81f0b3cc94e5d260b4}
+2018/12/19 11:40:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[64 232 220 128] Payload:[]}
+2018/12/19 11:40:23 {Type:tx ID:9fe03d1ae94fc5bd68ba08d31c4b5fcce0ea8e94bcb1578e442bb1110ae30ff6}
+2018/12/19 11:40:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[2 19 41 34] Payload:[]}
+2018/12/19 11:40:27 {Type:tx ID:faf941f0bf5ab5a5eec274455724224cede338b0bf2ace7ae5114a4002272d9e}
+2018/12/19 11:40:28 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[18 90 67 55] Payload:[]}
+2018/12/19 11:40:28 {Type:tx ID:eff847519a9fe5b6e11500e042e63210dc1626b64bba12ff6dc0b9a1186a3a12}
+2018/12/19 11:40:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[200 183 138 247] Payload:[]}
+2018/12/19 11:40:30 {Type:consensus ID:68c6dcda3bedd85135202102485c65daa0f3e835221f45b4d2437261b87c2353}
+2018/12/19 11:40:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[133 9 246 198] Payload:[]}
+2018/12/19 11:40:30 {Type:consensus ID:afba6a7b744fbebb51c1c84d2400a016c95b42008d6adfbd69b9c3d53edf875b}
+2018/12/19 11:40:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[148 217 191 10] Payload:[]}
+2018/12/19 11:40:31 {Type:consensus ID:33da87cde97c91d0fef503547fe26b3e711421c6716320852f5d962a8d6971d8}
+2018/12/19 11:40:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[168 228 229 70] Payload:[]}
+2018/12/19 11:40:31 {Type:block ID:8a46147b97e9ce27f6673bc01ae9135363afef18f6f3fd720681372e7f0c9a9d}
+2018/12/19 11:40:31  msg: 8a46147b97e9ce27f6673bc01ae9135363afef18f6f3fd720681372e7f0c9a9d
+2018/12/19 11:40:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[70 214 90 0] Payload:[]}
+2018/12/19 11:40:34 {Type:tx ID:2e1dd931a13c0df5b1814a5424d4dae3271b29aebba06d9c0c4e37f5db862860}
+2018/12/19 11:40:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[140 53 94 238] Payload:[]}
+2018/12/19 11:40:49 {Type:consensus ID:f8b0c7b0946eb524225be1a4def34c03cef6bfdbd0bcfba29cba2636883cb524}
+2018/12/19 11:40:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[53 25 90 22] Payload:[]}
+2018/12/19 11:40:50 {Type:block ID:817ee31e5dc262a560410862bbc5aec30118cd9d56d5b2762cf07f94b70bb512}
+2018/12/19 11:40:50  msg: 817ee31e5dc262a560410862bbc5aec30118cd9d56d5b2762cf07f94b70bb512
+2018/12/19 11:41:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[47 149 51 3] Payload:[]}
+2018/12/19 11:41:01 {Type:tx ID:790d76d1e37831788c2e7ddde6a6d3baead202c19c182610c179f7b54c12d447}
+2018/12/19 11:41:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[49 243 182 216] Payload:[]}
+2018/12/19 11:41:05 {Type:consensus ID:0e8d3efe56f296a76cac6a91c34c0464096f07cb226c8c8f646f7649e8bf7358}
+2018/12/19 11:41:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[127 214 221 139] Payload:[]}
+2018/12/19 11:41:06 {Type:consensus ID:3288701420f1df16b89afd64050f03fb83c7a1ae1b5dd616ac1942f64be790cc}
+2018/12/19 11:41:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[93 230 246 72] Payload:[]}
+2018/12/19 11:41:06 {Type:block ID:764d6d146da748a60424bb636b50d56a3e01d7fb4006bb1ee9cc546118cbfa97}
+2018/12/19 11:41:06  msg: 764d6d146da748a60424bb636b50d56a3e01d7fb4006bb1ee9cc546118cbfa97
+2018/12/19 11:41:09 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[92 213 44 237] Payload:[]}
+2018/12/19 11:41:09 {Type:tx ID:b830c00cb4618437e08d77bb420bce5f610084e878f637db5d1784bb49078797}
+2018/12/19 11:41:10 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[190 54 11 33] Payload:[]}
+2018/12/19 11:41:10 {Type:tx ID:c639894b723e831d4df25e35cc1f1603705df31a906d1abb1f1405831cd23a68}
+2018/12/19 11:41:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[110 50 119 44] Payload:[]}
+2018/12/19 11:41:19 {Type:tx ID:44dc5e1b43fde832a163c0560deac63cd924948078129bc8181fe7a26366711a}
+2018/12/19 11:41:24 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[0 129 76 177] Payload:[]}
+2018/12/19 11:41:24 {Type:tx ID:19b0dea08e8458ccbc0cd51a5aac34f467910c2d0341016f9a8a45de289ee25b}
+2018/12/19 11:41:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[202 24 123 223] Payload:[]}
+2018/12/19 11:41:27 {Type:tx ID:f8f8f88f3f9f576a8dfc52f3c85501e5e705cd4574300f54551a5e3b58033977}
+2018/12/19 11:41:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[152 27 120 129] Payload:[]}
+2018/12/19 11:41:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[155 131 158 137] Payload:[]}
+2018/12/19 11:41:27 {Type:consensus ID:e4b87c1a7ceb1a5a017604b6ae59f9a0fd5a827cee8c23ec7b11c29e79d8a699}
+2018/12/19 11:41:27 {Type:block ID:168ce4e08fd2d9c1f0a799442893ad5566179c55fd04135c94c3b7b14be4f250}
+2018/12/19 11:41:27  msg: 168ce4e08fd2d9c1f0a799442893ad5566179c55fd04135c94c3b7b14be4f250
+2018/12/19 11:41:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[185 184 63 179] Payload:[]}
+2018/12/19 11:41:37 {Type:tx ID:1c13341d6da8c11c04563ad05ecd920fdc40e34655cee888a2be8d1479f3f3fa}
+2018/12/19 11:41:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[21 214 98 185] Payload:[]}
+2018/12/19 11:41:37 {Type:tx ID:805a5b1b571a85dd422830e359b8465430af057dc3ae0b175ae232c0be45d131}
+2018/12/19 11:41:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[125 83 171 15] Payload:[]}
+2018/12/19 11:41:42 {Type:consensus ID:0d7c4fc3179544a2fc1d337e6eb32d541623ed9111777977b45b3032a41fdaf9}
+2018/12/19 11:41:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[213 73 3 178] Payload:[]}
+2018/12/19 11:41:42 {Type:consensus ID:4fcf8f770af6bb07b6cc496f4829aeb0e79f334cd7996fbf69ba36106c8bf22d}
+2018/12/19 11:41:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[5 58 199 25] Payload:[]}
+2018/12/19 11:41:43 {Type:block ID:39f47a82716d5dc1a31fcce5a00ed28f486aa66946ce4a7ff3c146ae5a2802fe}
+2018/12/19 11:41:43  msg: 39f47a82716d5dc1a31fcce5a00ed28f486aa66946ce4a7ff3c146ae5a2802fe
+2018/12/19 11:41:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[28 34 211 139] Payload:[]}
+2018/12/19 11:41:51 {Type:tx ID:016e87dd4fb770cd832c07017e662c7b9063da6bf50cfb11ce4a6f7edf0b7f3e}
+2018/12/19 11:41:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[147 112 113 89] Payload:[]}
+2018/12/19 11:41:57 {Type:tx ID:6ba8e3b1320dbde8327d97ab08a4161c127e117a8850811aa077d400f906efcb}
+2018/12/19 11:42:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[71 209 163 82] Payload:[]}
+2018/12/19 11:42:01 {Type:tx ID:bc9eb6e520f9b0c2848158626eecc95291ec42eabaa6b09dfab0600f26e5bfd4}
+2018/12/19 11:42:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[109 138 249 246] Payload:[]}
+2018/12/19 11:42:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[177 131 218 96] Payload:[]}
+2018/12/19 11:42:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[164 242 111 178] Payload:[]}
+2018/12/19 11:42:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[247 77 105 131] Payload:[]}
+2018/12/19 11:42:01 {Type:tx ID:70c07a9504f26fe80b52d4b0cdca288bf8679e9e5d82777158e698ea6f24188a}
+2018/12/19 11:42:01 {Type:consensus ID:a2b1e90f5e9442cb0352e34592e32511cd5ee7c09ba405e20475c8224722e347}
+2018/12/19 11:42:01 {Type:consensus ID:3b65b9423b662c13dd9d4ca64832bfdb0ee063e50f08c87af0da7f7ee697405d}
+2018/12/19 11:42:01 {Type:consensus ID:7d8a39c94621a03efdba208be8b6035b3a3eb83d6334044af7275cb58fc15cbe}
+2018/12/19 11:42:02 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[128 233 204 146] Payload:[]}
+2018/12/19 11:42:02 {Type:block ID:6009b34df91396f468633373d230aa1a6f855a678907386ce6bf0c64d6134ff5}
+2018/12/19 11:42:02  msg: 6009b34df91396f468633373d230aa1a6f855a678907386ce6bf0c64d6134ff5
+2018/12/19 11:42:10 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[51 99 14 116] Payload:[]}
+2018/12/19 11:42:10 {Type:tx ID:8f9b0ec37f1c855da04216537eec08aaa03c15bd5378e6f3a4e1e86eb41b1524}
+2018/12/19 11:42:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[2 182 45 161] Payload:[]}
+2018/12/19 11:42:18 {Type:consensus ID:f00657176c61340a08986c9af42b4aa7c779531f6b8afd9c745c15229fa0a11a}
+2018/12/19 11:42:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[211 93 164 28] Payload:[]}
+2018/12/19 11:42:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[19 141 150 181] Payload:[]}
+2018/12/19 11:42:19 {Type:consensus ID:c599c51789c3cc39beb0223122664a4074515df9358bfb4cb5a4b6ee8c73d1bc}
+2018/12/19 11:42:19 {Type:consensus ID:452d66c3363094ed0507a184951398c9643fd66b81a46894542b1f48323d59d1}
+2018/12/19 11:42:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[38 100 253 84] Payload:[]}
+2018/12/19 11:42:19 {Type:block ID:e3216cf1fdfab2b421ae3e5394e553a8cb14d7d60a90e8499877fca7b499a787}
+2018/12/19 11:42:19  msg: e3216cf1fdfab2b421ae3e5394e553a8cb14d7d60a90e8499877fca7b499a787
+2018/12/19 11:42:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[77 179 31 173] Payload:[]}
+2018/12/19 11:42:21 {Type:consensus ID:aeeba8d79ca4f8e0a1a341cecc5b2903e37ce873f2d17763c73f46e85048beb5}
+2018/12/19 11:42:26 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[212 44 238 62] Payload:[]}
+2018/12/19 11:42:26 {Type:tx ID:08d6452e768b3399821021dc5c3ce59953331a2fbbba123845cfba0a787e3c78}
+2018/12/19 11:42:35 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[113 189 107 55] Payload:[]}
+2018/12/19 11:42:35 {Type:consensus ID:d0a3c28109dcd4852ee38604bb0a8b2463d0a667da0d2aa25b25dc8c1f957868}
+2018/12/19 11:42:35 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[128 253 65 170] Payload:[]}
+2018/12/19 11:42:35 {Type:consensus ID:1863e1cd6632dd246802d45868c9df1cb2d94154efecfec8c9aabf60086c37c6}
+2018/12/19 11:42:36 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[73 182 61 251] Payload:[]}
+2018/12/19 11:42:36 {Type:consensus ID:96ced517d2b0c6bb25f399e8046cd77b6f35cdad807bc56b709f3f63065b6315}
+2018/12/19 11:42:36 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[17 67 167 240] Payload:[]}
+2018/12/19 11:42:36 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[78 59 0 72] Payload:[]}
+2018/12/19 11:42:36 {Type:consensus ID:cd8b1241e43605749fbcab3dce78d49d4d1e6b968518e170eb3109964bc34848}
+2018/12/19 11:42:36 {Type:tx ID:15f559da134078e728fd2df2974d3dbcb5bf32fc51ded5eebcfc6dcbe4d44a60}
+2018/12/19 11:42:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[234 147 0 8] Payload:[]}
+2018/12/19 11:42:38 {Type:consensus ID:66ff41675d85d5b3a95e33c44cf9e1c85cb39ca79c09c8766b65a8299def438a}
+2018/12/19 11:42:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[11 128 222 249] Payload:[]}
+2018/12/19 11:42:38 {Type:block ID:adc12587af989b688e5501c932dd56fac5633d40d4b0b84666d72cf81913d171}
+2018/12/19 11:42:38  msg: adc12587af989b688e5501c932dd56fac5633d40d4b0b84666d72cf81913d171
+2018/12/19 11:42:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[130 52 200 177] Payload:[]}
+2018/12/19 11:42:42 {Type:tx ID:91eeacb1d33a1c8635b4f34cfd0fec6f10042f8768e54359a6d14c12b81540be}
+2018/12/19 11:42:44 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[249 61 93 77] Payload:[]}
+2018/12/19 11:42:44 {Type:tx ID:3357629720bcc08aaad9c995e617fae71a4f085a9158353e5c80f34c3e325de3}
+2018/12/19 11:42:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[208 49 6 190] Payload:[]}
+2018/12/19 11:42:49 {Type:tx ID:4b0b8bcd406292023eafe3299d99fc8b7efcdab5cbe9cc48c0352816848bcbd5}
+2018/12/19 11:42:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[100 73 159 21] Payload:[]}
+2018/12/19 11:42:51 {Type:tx ID:31f7da0096f48a4f21741e3dd4860510f42d0a7d23265033f73269fe8384fb8d}
+2018/12/19 11:42:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[254 155 249 113] Payload:[]}
+2018/12/19 11:42:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[137 2 201 210] Payload:[]}
+2018/12/19 11:42:51 {Type:tx ID:22c2f60d71724d9d86a4e905844f6c58cf61b6efd4fc2c79a61a0ab9c66f9fca}
+2018/12/19 11:42:51 {Type:tx ID:29b645cd4bb60f80a28da39febef6a4aeac2c1ea84e4a902fb27db97bc229192}
+2018/12/19 11:42:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[152 172 154 64] Payload:[]}
+2018/12/19 11:42:58 {Type:consensus ID:f2970e27206a55fb87a0570bcd56554c8f727ef7340a296ff6e14e884afc8763}
+2018/12/19 11:43:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[39 44 124 193] Payload:[]}
+2018/12/19 11:43:00 {Type:consensus ID:64e4a3a4fe4bc06a0eefe5461f0b6c063b8527bc52766248ef7a392f7aabdead}
+2018/12/19 11:43:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[99 1 2 29] Payload:[]}
+2018/12/19 11:43:00 {Type:block ID:f2d9f999b7df5a1801ad91daf3ea6946744bf98e5754071f7f4a50f858947be5}
+2018/12/19 11:43:00  msg: f2d9f999b7df5a1801ad91daf3ea6946744bf98e5754071f7f4a50f858947be5
+2018/12/19 11:43:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[111 196 241 71] Payload:[]}
+2018/12/19 11:43:06 {Type:tx ID:d4c59904f27110214501f93b689d55648c75865c7b02d11fee84493f832bcdad}
+2018/12/19 11:43:07 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[93 126 0 131] Payload:[]}
+2018/12/19 11:43:07 {Type:tx ID:3513f10aa905836dbad67fff1fdea2c59e2da837a3e2671f6ac7ce334153c1e9}
+2018/12/19 11:43:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[87 162 146 109] Payload:[]}
+2018/12/19 11:43:14 {Type:tx ID:e5d0c60de268df403194340dfd8e46e9c2e4607aa2b0ab4473f50a91616ded71}
+2018/12/19 11:43:17 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[35 193 191 248] Payload:[]}
+2018/12/19 11:43:17 {Type:consensus ID:75258c25f0302b177b727aeb7bb0f810e61f3aec3d306272ffa48a252662e928}
+2018/12/19 11:43:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[68 11 23 230] Payload:[]}
+2018/12/19 11:43:18 {Type:consensus ID:271d9665242ad2a0996649f93117409390275468aafe022ddcabcebc479bbbf8}
+2018/12/19 11:43:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[216 188 22 113] Payload:[]}
+2018/12/19 11:43:19 {Type:consensus ID:96eef64eccac758472da84120f329b2732e047808a389686ed5377cdf715f74b}
+2018/12/19 11:43:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[39 16 227 78] Payload:[]}
+2018/12/19 11:43:19 {Type:block ID:235c063d511603a7b2c022670e8a8cfa342ada7731a1798e398e1ac458d0430e}
+2018/12/19 11:43:19  msg: 235c063d511603a7b2c022670e8a8cfa342ada7731a1798e398e1ac458d0430e
+2018/12/19 11:43:26 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[108 140 171 200] Payload:[]}
+2018/12/19 11:43:26 {Type:tx ID:dd096a29bce63b6cea0b01055dfb97038e8d38501d19dfbb785f419c13861be2}
+2018/12/19 11:43:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[156 195 15 12] Payload:[]}
+2018/12/19 11:43:30 {Type:tx ID:951d2b9aadf41ccd52affd78f8af6acefddbede6c53377f167b536911620a3ca}
+2018/12/19 11:43:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[250 88 216 208] Payload:[]}
+2018/12/19 11:43:31 {Type:tx ID:365ec782c75bda089cd434f3d6b8f1814732077d2d52a07b134b1cff5612091b}
+2018/12/19 11:43:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[155 18 54 136] Payload:[]}
+2018/12/19 11:43:32 {Type:tx ID:cf9e33af7c0fc8e5fc141077b6a5eb954664d32ee22496b244d46986b9f79af5}
+2018/12/19 11:43:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[99 192 183 155] Payload:[]}
+2018/12/19 11:43:34 {Type:tx ID:8387a26187510bcec36ac8bd90ecd0931dd00807f5351a7514bcc7fe5272b034}
+2018/12/19 11:43:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[231 163 30 166] Payload:[]}
+2018/12/19 11:43:37 {Type:tx ID:97771f4f8efac17f48db6230ebeaae84adb15c39a7d40b916bf93003163b0ca6}
+2018/12/19 11:43:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[90 18 150 146] Payload:[]}
+2018/12/19 11:43:38 {Type:tx ID:5162a2c7cc94678f4a96581400d8ecbd8b1647a2d0938774a3afff46d3c9d78f}
+2018/12/19 11:43:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[124 109 21 197] Payload:[]}
+2018/12/19 11:43:39 {Type:tx ID:8f1f38c75d789142d647d270cae7aec1b683912f071fbb1dfae0009e21d2c0f6}
+2018/12/19 11:43:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[169 125 176 25] Payload:[]}
+2018/12/19 11:43:41 {Type:consensus ID:29849259efd3ab122fb80a356881ea34a9b1fd8b25d5972cbf55d89d2646d9ec}
+2018/12/19 11:43:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[157 224 207 38] Payload:[]}
+2018/12/19 11:43:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[138 177 254 81] Payload:[]}
+2018/12/19 11:43:41 {Type:consensus ID:6904b1f2a63fe3283f7a9a5dd69959ce4ea0492c38048ffe2341a5a78abac576}
+2018/12/19 11:43:41 {Type:consensus ID:689eb1fc804ddf8583dfccbde5e7daf34c7d168030aecdf3f0b374cc9b880e43}
+2018/12/19 11:43:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[26 7 146 191] Payload:[]}
+2018/12/19 11:43:42 {Type:consensus ID:a02674a56cac026476284aab124c50d6c7eb2260804667c45d50daab9e778009}
+2018/12/19 11:43:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[22 45 238 218] Payload:[]}
+2018/12/19 11:43:42 {Type:block ID:05ede5131db3c4608bde9ee3148a8aec3eaf7c3ae6c6a735d4a520e10ae7e026}
+2018/12/19 11:43:42  msg: 05ede5131db3c4608bde9ee3148a8aec3eaf7c3ae6c6a735d4a520e10ae7e026
+2018/12/19 11:43:44 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[44 26 178 56] Payload:[]}
+2018/12/19 11:43:44 {Type:tx ID:6dfdb435230172d1354934bd826ebcfedcf2875de8f6e95ac057824ffc3dcd95}
+2018/12/19 11:43:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[71 181 95 103] Payload:[]}
+2018/12/19 11:43:50 {Type:tx ID:16676ace9ff56314b7472f686e8e3017dddac50582f871d87383701f17527780}
+2018/12/19 11:43:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[216 36 65 200] Payload:[]}
+2018/12/19 11:43:57 {Type:consensus ID:812e1bf4becbbd01a5505d919b8a2607936335c625b65305573cc1ee4f698fd8}
+2018/12/19 11:43:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[201 186 236 181] Payload:[]}
+2018/12/19 11:43:57 {Type:consensus ID:85c3f4975f82b5397071939256e0508cc0fc8bcc59ab26a3c8a6f3becfdbc259}
+2018/12/19 11:43:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[114 206 40 181] Payload:[]}
+2018/12/19 11:43:58 {Type:tx ID:f2b885f4ca67cb74f1f424bbf43848d819f9d4e64ab7206b59d204348c378acc}
+2018/12/19 11:43:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[94 58 166 127] Payload:[]}
+2018/12/19 11:43:58 {Type:block ID:dc13b93995ceec5df03cc25bfdfcea54becb2ca883315ff3b97bbc69c13ab3d6}
+2018/12/19 11:43:58  msg: dc13b93995ceec5df03cc25bfdfcea54becb2ca883315ff3b97bbc69c13ab3d6
+2018/12/19 11:44:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[23 88 200 225] Payload:[]}
+2018/12/19 11:44:01 {Type:tx ID:71083033822a08b6e5103d34a448732336226bf7e7213ac2125f2f5c9174c286}
+2018/12/19 11:44:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[137 170 113 199] Payload:[]}
+2018/12/19 11:44:14 {Type:tx ID:20cc76891cf3d0a13a2b18dd2e0632308b10ca5a442af039a86b93697137274b}
+2018/12/19 11:44:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[77 229 114 153] Payload:[]}
+2018/12/19 11:44:18 {Type:consensus ID:6068775c245d49b8d187d11e8482b60206d9df8519cdb1b7e14044ce218276a2}
+2018/12/19 11:44:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[169 110 179 244] Payload:[]}
+2018/12/19 11:44:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[2 253 3 154] Payload:[]}
+2018/12/19 11:44:18 {Type:consensus ID:012b33e9eb44482a9cf604bdfb3dc134c25311cbe64c202abe50bf07aaec04a3}
+2018/12/19 11:44:18 {Type:consensus ID:2b187b309a1998e99dca62626e1eaa19177da7325a3aad54d6ac9bcd4a71ce8b}
+2018/12/19 11:44:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[80 146 202 106] Payload:[]}
+2018/12/19 11:44:19 {Type:block ID:43560926f1dd5166df76996cfa885535f43792882ee2ca7043f80bb128570f3a}
+2018/12/19 11:44:19  msg: 43560926f1dd5166df76996cfa885535f43792882ee2ca7043f80bb128570f3a
+2018/12/19 11:44:35 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[130 219 127 212] Payload:[]}
+2018/12/19 11:44:35 {Type:consensus ID:a6661720a8ca06fd7bc00642b3dbc290dca60af972b60bb4f211094fd475d009}
+2018/12/19 11:44:35 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[150 243 67 50] Payload:[]}
+2018/12/19 11:44:35 {Type:consensus ID:986b1e615dd9af0e1797c1af0db042f7dd434b28d17aea324a499320881e3fc4}
+2018/12/19 11:44:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[147 136 216 71] Payload:[]}
+2018/12/19 11:44:37 {Type:consensus ID:aa1ac9004e65a6b96922fa7a0865afb0bfa7910967d131c0c087be697a704763}
+2018/12/19 11:44:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[92 181 212 9] Payload:[]}
+2018/12/19 11:44:37 {Type:consensus ID:f45dfd36aafb7f273ec2127c37037dc2c37c47d88c32cc92b33ac4ebd94cabac}
+2018/12/19 11:44:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[193 214 39 30] Payload:[]}
+2018/12/19 11:44:38 {Type:consensus ID:ccc05c6dcefbdf76e6107d8d4899f40f660f72823b7949876e133edd48f4dd9c}
+2018/12/19 11:44:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[145 228 5 216] Payload:[]}
+2018/12/19 11:44:38 {Type:consensus ID:0da2d32d62c1fcc858a60ca263f849b55b4c38f7d313160555fdea055c3e74c5}
+2018/12/19 11:44:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[62 177 164 202] Payload:[]}
+2018/12/19 11:44:40 {Type:block ID:b8158b9fc41e5f9f0689973ac2f82f1d8f0ca6c77f556983830bf7778136f61e}
+2018/12/19 11:44:40  msg: b8158b9fc41e5f9f0689973ac2f82f1d8f0ca6c77f556983830bf7778136f61e
+2018/12/19 11:44:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[84 26 118 131] Payload:[]}
+2018/12/19 11:44:48 {Type:tx ID:728bb15fab3e392041f836e02067880ee1a80045112d1dbb91d39d87d8a2f7a8}
+2018/12/19 11:44:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[180 50 163 215] Payload:[]}
+2018/12/19 11:44:51 {Type:tx ID:b3adddb379c02a77ecb1ef52ba653eec2433f20fed78b86b83917516cc711bc3}
+2018/12/19 11:44:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[91 43 135 30] Payload:[]}
+2018/12/19 11:44:51 {Type:tx ID:5a83dc11dbf6576895aa24153915d3c43e38e9f9a6e5e05c68771458cc6f6ba4}
+2018/12/19 11:44:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[241 233 37 30] Payload:[]}
+2018/12/19 11:44:57 {Type:tx ID:696dc3954f86968ea37e70ad15833fe86c9aec5432e11a19d22cbc9c5fe70c2f}
+2018/12/19 11:45:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[141 43 38 251] Payload:[]}
+2018/12/19 11:45:01 {Type:tx ID:8e9729ca0967487610eeee92af45e6142eb28d2a1c801bf3c5e717bac0ca5ae7}
+2018/12/19 11:45:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[81 175 71 252] Payload:[]}
+2018/12/19 11:45:06 {Type:consensus ID:7ccc08d09c6d45c08d15a34e903fa69732ee17b5198a64a0672e82d5541d2148}
+2018/12/19 11:45:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[14 116 10 86] Payload:[]}
+2018/12/19 11:45:06 {Type:tx ID:ad4e82b9b3d938bae2825c82d0c8e1f9a88db0c905d287780f3f5a03f1038a2b}
+2018/12/19 11:45:08 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[151 150 13 59] Payload:[]}
+2018/12/19 11:45:08 {Type:consensus ID:fbc5f21e3365b11889efdfc29cf2166a8c43bfbc0b178bf713d9187bbc47ad72}
+2018/12/19 11:45:08 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[132 109 191 27] Payload:[]}
+2018/12/19 11:45:08 {Type:tx ID:0d712d8e113e0f49c0e15f2538d810a9df1cc386868ef55e3374b80c185e1fc0}
+2018/12/19 11:45:09 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[75 114 17 130] Payload:[]}
+2018/12/19 11:45:09 {Type:consensus ID:afcea34f5774eed2b86f329df198e6c0733e3322ea02959be830c148dbed0893}
+2018/12/19 11:45:09 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[249 148 226 144] Payload:[]}
+2018/12/19 11:45:09 {Type:consensus ID:4f336eb0fe41139aa46009b940ee4b636a29ead0d1bcb6716bc481d02592d1c6}
+2018/12/19 11:45:10 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[189 16 65 162] Payload:[]}
+2018/12/19 11:45:10 {Type:consensus ID:104805899c84712e7b2e62efd3bd3dca715bd17baa97a8f75248987a41b497d0}
+2018/12/19 11:45:10 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[2 230 194 180] Payload:[]}
+2018/12/19 11:45:10 {Type:consensus ID:06f7e28ec855c2364e8c780b28181ec946255de2c6bbfd52d67c262a7b9b1963}
+2018/12/19 11:45:12 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[132 179 253 2] Payload:[]}
+2018/12/19 11:45:12 {Type:consensus ID:a5f72f09d4d2d02528e86e000c80dde0719d293ac7fadee4800d84de935fe35a}
+2018/12/19 11:45:12 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[12 132 143 210] Payload:[]}
+2018/12/19 11:45:12 {Type:consensus ID:972736d9d1866ec93110708cb70f2203a828de5002095b665c0aa53185ac98f9}
+2018/12/19 11:45:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[161 147 72 42] Payload:[]}
+2018/12/19 11:45:13 {Type:consensus ID:496e9be72b7cb1771b03208e5df6a1b67c990836d3c08eb10abf5f2d8975e0b3}
+2018/12/19 11:45:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[167 213 74 25] Payload:[]}
+2018/12/19 11:45:14 {Type:consensus ID:8218adb58da486d6b9b0cdf5e0e1cdffa9e0b8923fc39fe4f6f633e046c48d08}
+2018/12/19 11:45:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[98 126 121 248] Payload:[]}
+2018/12/19 11:45:14 {Type:consensus ID:6e21643dc8d55219569d3494f3fde0cfbebc3625c95d907855c00d7fc653b906}
+2018/12/19 11:45:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[162 71 179 60] Payload:[]}
+2018/12/19 11:45:15 {Type:consensus ID:877e0ee332bf7eb7672fc8c9cb059a95d5130163b24143c649ea18bc10f3b6bc}
+2018/12/19 11:45:16 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[150 112 161 110] Payload:[]}
+2018/12/19 11:45:16 {Type:consensus ID:ab73554750508a6b2009d6c38fdc5499b112bd9e280419b9445e0745322ab9ab}
+2018/12/19 11:45:16 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[198 217 96 97] Payload:[]}
+2018/12/19 11:45:16 {Type:consensus ID:17486aa21d2e847327479e9a75e0f667dde13860d982b5f6844e3b12b70b0200}
+2018/12/19 11:45:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[29 32 151 77] Payload:[]}
+2018/12/19 11:45:18 {Type:consensus ID:cd615aa831a68d9e1b17c4db47b5bee48ed37ea783be6ace82da1893b0b0192d}
+2018/12/19 11:45:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[49 199 81 245] Payload:[]}
+2018/12/19 11:45:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[245 231 99 110] Payload:[]}
+2018/12/19 11:45:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[68 252 83 143] Payload:[]}
+2018/12/19 11:45:18 {Type:consensus ID:aba565a35c5c1a4f502221de82fba5e687c23381a7d0c6627ad3def1cf4baa39}
+2018/12/19 11:45:18 {Type:consensus ID:183376781ba3b193755f91f47b5660ab7a135289e21912517c186be948581d74}
+2018/12/19 11:45:18 {Type:consensus ID:14a97bdeefd65d8f6d6f242d2ceef50a378ab527a5d2458cda6ed44e10ba26b8}
+2018/12/19 11:45:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[6 214 79 193] Payload:[]}
+2018/12/19 11:45:21 {Type:consensus ID:4f601f8e1fd084697ac608687c340da8e6a178c742e9eaf54a49ff24d95de1da}
+2018/12/19 11:45:22 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[18 20 163 118] Payload:[]}
+2018/12/19 11:45:22 {Type:consensus ID:2a0851d3ee19de79f015b8d1492ae02044c14491814c7ae2849459f896a15be7}
+2018/12/19 11:45:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[136 185 115 32] Payload:[]}
+2018/12/19 11:45:27 {Type:block ID:fa138e6ebae2ca8a4d361e42c0e5603c934cc32cd10087ffe6656006b131ca5c}
+2018/12/19 11:45:27  msg: fa138e6ebae2ca8a4d361e42c0e5603c934cc32cd10087ffe6656006b131ca5c
+2018/12/19 11:45:29 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[120 140 181 169] Payload:[]}
+2018/12/19 11:45:29 {Type:tx ID:f03559246e3d1ba5bf2478298db2d969ceb32f8c6590eb8344b83f619db44e6a}
+2018/12/19 11:45:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[41 255 39 20] Payload:[]}
+2018/12/19 11:45:30 {Type:tx ID:dfbb454e44056a3554074f81184d3075d87f13c21891ca2b2540e1a5207abe19}
+2018/12/19 11:45:33 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[254 54 225 211] Payload:[]}
+2018/12/19 11:45:33 {Type:tx ID:d1531169d6ed6b1fc2126118b053ece4b24989ebe0859c1020c00170ed37d7f7}
+2018/12/19 11:45:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[58 10 220 246] Payload:[]}
+2018/12/19 11:45:37 {Type:consensus ID:f6e59f9bca7cb2d6ce3a1b696db5341345e27bfcd369bd8be02b3543ff2c3ff1}
+2018/12/19 11:45:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[192 94 74 98] Payload:[]}
+2018/12/19 11:45:38 {Type:consensus ID:112d6a75e767650b2899c436eb97f8e04be5879e81f71649b9dafb9b344789bd}
+2018/12/19 11:45:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[150 7 120 148] Payload:[]}
+2018/12/19 11:45:39 {Type:consensus ID:44973cc476c5c5bd5da081dbb9182b02722c1e3ff14565977a8443e861b808ca}
+2018/12/19 11:45:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[163 222 100 105] Payload:[]}
+2018/12/19 11:45:43 {Type:consensus ID:785492a18510d62c5b62ce0dabad7a68d8a0cf2d6d293e98ae52f7d85e8e48b3}
+2018/12/19 11:45:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[186 14 255 21] Payload:[]}
+2018/12/19 11:45:43 {Type:consensus ID:710d4ebeea48b26242d6db8ddb25b7b2df840f2fd7f62e6ca2406e4a826db2f7}
+2018/12/19 11:45:45 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[189 178 90 166] Payload:[]}
+2018/12/19 11:45:45 {Type:block ID:984fb201e4771d9ee587571db1593af70160e2e83f8910bab662834c76ad769b}
+2018/12/19 11:45:45  msg: 984fb201e4771d9ee587571db1593af70160e2e83f8910bab662834c76ad769b
+2018/12/19 11:45:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[214 14 1 214] Payload:[]}
+2018/12/19 11:45:50 {Type:tx ID:cd616baf67ab7299be92f1594ed5e32915c32a0cb31361d72cf7eb3e7e70c316}
+2018/12/19 11:45:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[82 164 161 88] Payload:[]}
+2018/12/19 11:45:56 {Type:tx ID:1bfeb05635e26ceed2be36faca37b99fbdd21a6a339b071a698272f7fa862a32}
+2018/12/19 11:45:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[21 122 39 252] Payload:[]}
+2018/12/19 11:45:58 {Type:consensus ID:7fe1d701e67a5a84ffd2c73e274453c031e6c651e7a64eb59f96002659adc6d2}
+2018/12/19 11:45:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[177 205 244 100] Payload:[]}
+2018/12/19 11:45:58 {Type:consensus ID:0d54525aa1a95002ab56c7482ec932adeb1e0afaeb9bc0014fcbff3cbc907923}
+2018/12/19 11:46:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[103 93 131 25] Payload:[]}
+2018/12/19 11:46:00 {Type:consensus ID:06a32862ea1a0ffde4247a1278063333cea61be1b65d9a54aff8176d169b14c1}
+2018/12/19 11:46:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[36 1 198 175] Payload:[]}
+2018/12/19 11:46:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[153 2 191 18] Payload:[]}
+2018/12/19 11:46:00 {Type:consensus ID:7996f214983e6d24bd6a25576970a5326f59ec8f1ebc8d5592678360fd33cb22}
+2018/12/19 11:46:00 {Type:consensus ID:fcd501d08207f751dbc5907190d993712e1ad9361f6edb1c729a24c57d5ade56}
+2018/12/19 11:46:02 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[62 102 199 128] Payload:[]}
+2018/12/19 11:46:02 {Type:consensus ID:59b9d6bbe4ea9bc3b828a88e0cba8aae35d740fbd0fa2198e359e4a5a7fa751e}
+2018/12/19 11:46:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[205 29 119 100] Payload:[]}
+2018/12/19 11:46:04 {Type:tx ID:429e9398c181b71bd604f772a49472269f0732c84d44d164e826bb4148f019b6}
+2018/12/19 11:46:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[118 116 222 12] Payload:[]}
+2018/12/19 11:46:04 {Type:block ID:28596d10ebba86ce8e9b20c75e36a6fb5ad999e001ce96e7703ca04e441ff912}
+2018/12/19 11:46:04  msg: 28596d10ebba86ce8e9b20c75e36a6fb5ad999e001ce96e7703ca04e441ff912
+2018/12/19 11:46:10 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[244 165 24 94] Payload:[]}
+2018/12/19 11:46:10 {Type:tx ID:04c222c4482e1af2df89b432905a45bf90452a0ddc43aa2a680b651fac37fa57}
+2018/12/19 11:46:12 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[105 217 116 82] Payload:[]}
+2018/12/19 11:46:12 {Type:tx ID:763caba0addd61977ca12b87736bf9d9d53cf4bf9fe844dbdc9e42bb58626ae2}
+2018/12/19 11:46:17 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[148 189 239 92] Payload:[]}
+2018/12/19 11:46:17 {Type:tx ID:df5b5d49819d5febc5526881a252dccf637f6110b4ef3032fd019d56efaf5e54}
+2018/12/19 11:46:17 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[74 38 220 223] Payload:[]}
+2018/12/19 11:46:17 {Type:consensus ID:342aa47cf0487224d98d34db5bfc3efa10463a07ed5063e084dbb52abcbf4750}
+2018/12/19 11:46:20 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[218 48 81 193] Payload:[]}
+2018/12/19 11:46:20 {Type:consensus ID:a8720738ef5313c62f052687f80e9b3a1c082b1709b1b8f6a9f0df9fd32218eb}
+2018/12/19 11:46:20 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[83 106 142 155] Payload:[]}
+2018/12/19 11:46:20 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[216 11 179 33] Payload:[]}
+2018/12/19 11:46:20 {Type:consensus ID:066c3a8eb0c9cc027815bea780254ed81e4e82e6416b1474548cf2f2b88b4881}
+2018/12/19 11:46:20 {Type:consensus ID:f0836b3460d0f953d46b37e692217fc70895773f2b7dc89f8e7d491c5d560738}
+2018/12/19 11:46:22 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[59 113 93 164] Payload:[]}
+2018/12/19 11:46:22 {Type:consensus ID:0654745daf7ee0dba2897110beeaf2db23b18f7c55c62a3bf730e67c97c245b2}
+2018/12/19 11:46:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[62 206 149 98] Payload:[]}
+2018/12/19 11:46:23 {Type:tx ID:19ded8be6ffdc0f2a3509976e6c588b1431516ec0b789f05987c5c16f519923c}
+2018/12/19 11:46:24 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[17 0 142 58] Payload:[]}
+2018/12/19 11:46:24 {Type:tx ID:28caf06522b277e3140f4fbc3d5a0e78dc409ed20e9006c450154a2a84523314}
+2018/12/19 11:46:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[223 214 123 154] Payload:[]}
+2018/12/19 11:46:25 {Type:block ID:df4b4ff9b46dcd746ad67f49f8ae7d672b2f7458ffe995b791b014fd28552a23}
+2018/12/19 11:46:25  msg: df4b4ff9b46dcd746ad67f49f8ae7d672b2f7458ffe995b791b014fd28552a23
+2018/12/19 11:46:36 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[195 217 60 226] Payload:[]}
+2018/12/19 11:46:36 {Type:consensus ID:5f3c0e7d94a3fdd44fc6ec8e7d1c5e1f8f60cae2b937a723da1a99ec4cd7945c}
+2018/12/19 11:46:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[249 159 88 150] Payload:[]}
+2018/12/19 11:46:40 {Type:consensus ID:0d6b38c15f9da6e060a2d9a0c0bb75e2ddf4fdbf632ff7bd5eaff5939d903450}
+2018/12/19 11:46:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[189 184 103 119] Payload:[]}
+2018/12/19 11:46:40 {Type:consensus ID:dcecef1716518bfb297e93a5e86a592054b34a6b8e15ff250033023337b56f4e}
+2018/12/19 11:46:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[208 143 50 3] Payload:[]}
+2018/12/19 11:46:41 {Type:consensus ID:04fb7f53a62bdb6402a5bd0cecad4e9461e5d5a63405d623fedc78a2f29b5f3d}
+2018/12/19 11:46:44 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[66 7 190 148] Payload:[]}
+2018/12/19 11:46:44 {Type:consensus ID:be7751b4e730dca0c9792656e08e129d76898e169cc0519d53c7164c8b6f3604}
+2018/12/19 11:46:44 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[148 49 183 51] Payload:[]}
+2018/12/19 11:46:44 {Type:block ID:4e4887bbe189f0a3d5bac7d58a277bfed9535682d5c7993159484b0daa9e415e}
+2018/12/19 11:46:44  msg: 4e4887bbe189f0a3d5bac7d58a277bfed9535682d5c7993159484b0daa9e415e
+2018/12/19 11:46:54 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[7 26 100 118] Payload:[]}
+2018/12/19 11:46:54 {Type:tx ID:42bc70319eaf58cfab0fca4c3f5670b6350a372a7f7f58fb3dcb5c4ac1a52a0c}
+2018/12/19 11:46:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[22 244 17 35] Payload:[]}
+2018/12/19 11:46:58 {Type:consensus ID:289b97aaf9d3f789b8fa7067d900a4994bda14be1f02ab341835cff4d79dafaa}
+2018/12/19 11:46:59 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[178 171 85 12] Payload:[]}
+2018/12/19 11:46:59 {Type:consensus ID:1aa76b81ffb4abbaf7faaa6d0315102f110e1002daa427fb227d2e9fd6e60af1}
+2018/12/19 11:46:59 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[64 110 215 233] Payload:[]}
+2018/12/19 11:46:59 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[115 175 68 238] Payload:[]}
+2018/12/19 11:46:59 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[229 207 103 113] Payload:[]}
+2018/12/19 11:46:59 {Type:consensus ID:9ccec856fb827d90b6507bd8b66b16d74c1d80aa15843c45a7eb7bb50a218e3e}
+2018/12/19 11:46:59 {Type:consensus ID:20a1b8ede8f9d724c3e2fef6338f7db1a10659ecba399c8318ee7347a9e11159}
+2018/12/19 11:46:59 {Type:consensus ID:8037ce27f575ba3a04481d6d7515617bf6c8abcb3b3c53d4e40181bd383026fc}
+2018/12/19 11:47:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[133 83 42 233] Payload:[]}
+2018/12/19 11:47:00 {Type:block ID:8043016e48f3362f804d429e2256041c0e84416660623e24307f91f905d03cb2}
+2018/12/19 11:47:00  msg: 8043016e48f3362f804d429e2256041c0e84416660623e24307f91f905d03cb2
+2018/12/19 11:47:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[66 185 228 107] Payload:[]}
+2018/12/19 11:47:05 {Type:tx ID:85c47d4316cf9404d4c6421ac43100a6556c83bdff7ce8c399a0c1ec7159c4f9}
+2018/12/19 11:47:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[59 207 31 160] Payload:[]}
+2018/12/19 11:47:15 {Type:consensus ID:5bffae575b944e2cee0e304c21ca650b8865e62c1c6f3c6b07c8c579cfaf9448}
+2018/12/19 11:47:17 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[72 199 197 77] Payload:[]}
+2018/12/19 11:47:17 {Type:block ID:44c40072d0e354c755cdd1287ba634b1546d1bfc70330fa41179ffe40dfa7954}
+2018/12/19 11:47:17  msg: 44c40072d0e354c755cdd1287ba634b1546d1bfc70330fa41179ffe40dfa7954
+2018/12/19 11:47:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[62 35 213 78] Payload:[]}
+2018/12/19 11:47:21 {Type:tx ID:9da80f58d6e622b5519093d24978593e22148adbbcd062d88e4d077b821a2484}
+2018/12/19 11:47:29 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[186 143 207 152] Payload:[]}
+2018/12/19 11:47:29 {Type:tx ID:2ff73aaae63d814e7f210e50f98ff0370dfae7d6327963b36098f35a538e006a}
+2018/12/19 11:47:29 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[134 163 131 178] Payload:[]}
+2018/12/19 11:47:29 {Type:tx ID:ef6b8c4e65672b5c015eb86817378ae3e6f01ba2f01acce966e60e406b1a8a5e}
+2018/12/19 11:47:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[202 103 72 212] Payload:[]}
+2018/12/19 11:47:31 {Type:tx ID:3e79f7a16e276e9a7e61c8113a474b15a561a7c2cefb0b52be36a7c5fbddede3}
+2018/12/19 11:47:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[193 247 57 37] Payload:[]}
+2018/12/19 11:47:32 {Type:consensus ID:816a8656548f9fb0cdbd641e2fe469db55fd74a981a69cc02b24d4bd4761ba30}
+2018/12/19 11:47:33 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[225 122 60 142] Payload:[]}
+2018/12/19 11:47:33 {Type:consensus ID:2187586fdcab6ca5f6a1849daffc0ddd005948b03b786d231a04f08c77e6875e}
+2018/12/19 11:47:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[170 176 139 20] Payload:[]}
+2018/12/19 11:47:34 {Type:block ID:01da467554479d858f85a58c4650fd4b2c43817b5535d8ba2a10da7d4e1dfca2}
+2018/12/19 11:47:34  msg: 01da467554479d858f85a58c4650fd4b2c43817b5535d8ba2a10da7d4e1dfca2
+2018/12/19 11:47:36 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[79 232 56 41] Payload:[]}
+2018/12/19 11:47:36 {Type:tx ID:f483d70d5e56136b094c3af293ed8319e95a7f5af3e2789bd8cd172036e8f040}
+2018/12/19 11:47:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[245 120 215 69] Payload:[]}
+2018/12/19 11:47:37 {Type:tx ID:9926131f62bf5dfe0beda628b52f7ad62259dacb00453f564fa43fa588f6f4a4}
+2018/12/19 11:47:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[214 116 226 197] Payload:[]}
+2018/12/19 11:47:51 {Type:consensus ID:f52d85af9e8b3cc5653fabd0db487b6184e12bdfe35392c1ec33e02098138cbc}
+2018/12/19 11:47:53 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[203 1 198 48] Payload:[]}
+2018/12/19 11:47:53 {Type:consensus ID:90a58982d98f8077afb41646a8ae2b1b685336c78632676b526c9f491fb6ab19}
+2018/12/19 11:47:53 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[66 212 72 100] Payload:[]}
+2018/12/19 11:47:53 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[19 92 116 90] Payload:[]}
+2018/12/19 11:47:53 {Type:block ID:d5b33849085947bc022a04bd0428850bc3995c4f58ae4eeff7711b46e599e193}
+2018/12/19 11:47:53  msg: d5b33849085947bc022a04bd0428850bc3995c4f58ae4eeff7711b46e599e193
+2018/12/19 11:47:53 {Type:consensus ID:43e74198c78572544d7c0b6f73d74d09866cf1df859d36f3ba71504c5d1c9790}
+2018/12/19 11:47:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[234 27 244 63] Payload:[]}
+2018/12/19 11:47:57 {Type:tx ID:b284c139a6e57f4f71ad4946e828c324977467da6f4b87062123491e6e253ab7}
+2018/12/19 11:48:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[91 67 201 172] Payload:[]}
+2018/12/19 11:48:00 {Type:tx ID:cb8875b8e7d765b450ce54b3bff987d5de7426c486c70d5bef8784ebc878dfa7}
+2018/12/19 11:48:03 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[160 172 159 126] Payload:[]}
+2018/12/19 11:48:03 {Type:tx ID:e3b91d40b4cf120430a724875046d1106624077d8300e149f7cb3defee2d7304}
+2018/12/19 11:48:08 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[130 132 21 98] Payload:[]}
+2018/12/19 11:48:08 {Type:consensus ID:3e9054350fd9e505f871ec27eca72b007ab437e6af49cf37a43a6001c8b84402}
+2018/12/19 11:48:08 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[181 29 179 165] Payload:[]}
+2018/12/19 11:48:08 {Type:consensus ID:6a77497b4eb5c933c1241753ec6c9052ad2c9a842cc46f31a9633aa7adf678a9}
+2018/12/19 11:48:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[83 88 9 199] Payload:[]}
+2018/12/19 11:48:13 {Type:block ID:ddbb1aff321ada4e59d23c4d43e96e24a1e9c130a8fdc618cd9b7d201019e3a8}
+2018/12/19 11:48:13  msg: ddbb1aff321ada4e59d23c4d43e96e24a1e9c130a8fdc618cd9b7d201019e3a8
+2018/12/19 11:48:22 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[103 148 192 185] Payload:[]}
+2018/12/19 11:48:22 {Type:tx ID:abb80ef74bdf65e983fbc6c73e5d1dcb99d1b2bf0c477e6f4972f900ce377162}
+2018/12/19 11:48:22 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[130 7 217 165] Payload:[]}
+2018/12/19 11:48:22 {Type:tx ID:2305af047032eba3bcc56a669bb75879ecb0396dfea12ddb9746aa9f1be72320}
+2018/12/19 11:48:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[194 206 220 42] Payload:[]}
+2018/12/19 11:48:25 {Type:tx ID:09d3e878f0c45f76d09052ced17bb2e0c37bb13858c5a2a8250858f7e0421f2c}
+2018/12/19 11:48:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[34 124 88 127] Payload:[]}
+2018/12/19 11:48:27 {Type:consensus ID:7b0327e9a5ece20520552d641198e450fb85e62247219b7c7e3201c45391ec52}
+2018/12/19 11:48:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[38 119 194 42] Payload:[]}
+2018/12/19 11:48:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[197 208 156 42] Payload:[]}
+2018/12/19 11:48:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[150 17 85 54] Payload:[]}
+2018/12/19 11:48:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[211 85 135 165] Payload:[]}
+2018/12/19 11:48:27 {Type:tx ID:2af582bc6868e05dae0527ecdf2cb80de4744638831712ca68fbc1c578347dc2}
+2018/12/19 11:48:27 msg = &{Magic:7630401 Command:inv Length:66 Checksum:[18 70 221 50] Payload:[]}
+2018/12/19 11:48:27 {Type:consensus ID:183caf74f11c68c7cf84ad24e3344f646bef236b799f0ab8c02065dfad0c8f15}
+2018/12/19 11:48:27 {Type:consensus ID:bc764432a4433a7c31b55fb006e234b904e6b4955ea28ed827fdab7ab1a29b59}
+2018/12/19 11:48:27 {Type:consensus ID:466b7147ce63c5e1ae1d912ef01dae4f6e3d7558e00c8a986a771b4caaa792c7}
+2018/12/19 11:48:27 {Type:tx ID:13a608eb7c7c058c2029a5c3bcde70f5d5104ae03e3ac45abe3260aed2649e32}
+2018/12/19 11:48:27 {Type:tx ID:9f60dae2ce37fb0797b805902c5a4ac0fa900f6d9f3f77eb73dead11ed97a824}
+2018/12/19 11:48:29 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[85 39 199 18] Payload:[]}
+2018/12/19 11:48:29 {Type:consensus ID:1a5784dbe657adf2f05faca1cc155c8907fd1f2312d2f66bff402e4e50c56261}
+2018/12/19 11:48:29 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[219 57 64 162] Payload:[]}
+2018/12/19 11:48:29 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[95 109 57 193] Payload:[]}
+2018/12/19 11:48:29 {Type:consensus ID:917f0a6bf9318a84c4f570ee3fb1173771b4360066a4488fd462b26d708ce986}
+2018/12/19 11:48:29 {Type:tx ID:fdeb990403385bf44295ffababa549c3d9dda346b7ce52d35bbcca503da05a8e}
+2018/12/19 11:48:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[38 249 205 31] Payload:[]}
+2018/12/19 11:48:30 {Type:tx ID:10215e72c69f9d819b4a5b0419464ecc1dace504fff9cef765466237efa1a2db}
+2018/12/19 11:48:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[185 199 181 48] Payload:[]}
+2018/12/19 11:48:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[220 69 137 136] Payload:[]}
+2018/12/19 11:48:30 {Type:tx ID:ac078dc12e0bc71559be7e90ff2b07532ee0b21bd060a57fa6e50448a5f08e19}
+2018/12/19 11:48:30 {Type:consensus ID:64f2d31fe5ef1ee96332889df3b69824c50068e773f65935c8ccecfd86d3f212}
+2018/12/19 11:48:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[1 103 22 103] Payload:[]}
+2018/12/19 11:48:31 {Type:block ID:c10ef5cf3ef5c996db10d708176798196c75b3655357536511b0eedd0c50e6ba}
+2018/12/19 11:48:31  msg: c10ef5cf3ef5c996db10d708176798196c75b3655357536511b0eedd0c50e6ba
+2018/12/19 11:48:33 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[140 251 40 94] Payload:[]}
+2018/12/19 11:48:33 {Type:tx ID:3ecb663abf51c9931bc4098be58153a76a12b79baee01d2861c069fba560f041}
+2018/12/19 11:48:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[19 25 254 229] Payload:[]}
+2018/12/19 11:48:34 {Type:tx ID:50fea1f91a4dcb8a1992fd21d356394f9a9792417f4f406910779d35748007be}
+2018/12/19 11:48:36 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[77 203 125 40] Payload:[]}
+2018/12/19 11:48:36 {Type:tx ID:b8cd2734e20de9f7cd2550430bf35385ced7049111f79b3469260c31c2563a44}
+2018/12/19 11:48:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[27 168 234 115] Payload:[]}
+2018/12/19 11:48:41 {Type:tx ID:520be5d22fcef263aaaeb23d41cde0f0f4bd6edcd135c6eff7c679d85a195a37}
+2018/12/19 11:48:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[251 230 173 185] Payload:[]}
+2018/12/19 11:48:43 {Type:tx ID:5d465df8381f9fbd7b564ff7129ceb08db7eeb405b6eb9c6b586686e045176e2}
+2018/12/19 11:48:44 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[178 198 111 216] Payload:[]}
+2018/12/19 11:48:44 {Type:tx ID:60a3092d928ff618c65956b65ab44d80d476d78d88500c515172ed2cf2ed5c74}
+2018/12/19 11:48:45 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[128 223 221 249] Payload:[]}
+2018/12/19 11:48:45 {Type:consensus ID:2c9b1471fb5583135b0480f1b1a579bfedcfc85c511ea68763ecdd2c43229c43}
+2018/12/19 11:48:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[24 181 156 55] Payload:[]}
+2018/12/19 11:48:46 {Type:block ID:4d5dd4b8fef0d4207ac0e598e5818e52d7099e12c86f5529b3b38cae1c7a6718}
+2018/12/19 11:48:46  msg: 4d5dd4b8fef0d4207ac0e598e5818e52d7099e12c86f5529b3b38cae1c7a6718
+2018/12/19 11:48:59 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[124 106 117 48] Payload:[]}
+2018/12/19 11:48:59 {Type:tx ID:889d9700652d210efd4cd0368fdb535a3da637f4f2a584755b30264c5f8e2e4b}
+2018/12/19 11:49:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[113 232 254 13] Payload:[]}
+2018/12/19 11:49:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[190 175 190 55] Payload:[]}
+2018/12/19 11:49:00 {Type:tx ID:5a0e5349d562cb26d189f8acc35f9db369195ee0daa635bff097c5e792591b52}
+2018/12/19 11:49:00 {Type:tx ID:7b2fe0fa76854ee0209e2146fddc57379a6e233a36b4da420f9d1ccb30081f75}
+2018/12/19 11:49:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[39 53 160 210] Payload:[]}
+2018/12/19 11:49:01 {Type:tx ID:32806ff19b542c63c307579b258c44e302a250da66536df819979a63aa2e8230}
+2018/12/19 11:49:02 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[98 1 37 244] Payload:[]}
+2018/12/19 11:49:02 {Type:consensus ID:171f6157fc80669761a59a377da40834e6739979c1aa70a27337e34579d83e74}
+2018/12/19 11:49:03 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[151 74 67 78] Payload:[]}
+2018/12/19 11:49:03 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[190 100 246 24] Payload:[]}
+2018/12/19 11:49:03 {Type:consensus ID:07de700a90b10b8b4deaf64a275c99a99a473cd913fb2ef4161f2124c8ee5f26}
+2018/12/19 11:49:03 {Type:tx ID:07db5d427af9cde54dfbae7123b795fd3098c1d85d2f5d94dfdfd14ce2214b68}
+2018/12/19 11:49:03 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[72 104 36 223] Payload:[]}
+2018/12/19 11:49:03 {Type:tx ID:22da0aeb22cacbb6f4f694716fd1477bb5309f9e078089dc2797224d22750735}
+2018/12/19 11:49:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[213 15 173 127] Payload:[]}
+2018/12/19 11:49:04 {Type:block ID:a261d43c77a783fdeb02607cb34f1464c20b68e8818aa6af76fc430c2d894fb0}
+2018/12/19 11:49:04  msg: a261d43c77a783fdeb02607cb34f1464c20b68e8818aa6af76fc430c2d894fb0
+2018/12/19 11:49:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[60 38 35 243] Payload:[]}
+2018/12/19 11:49:14 {Type:tx ID:5b0404cc889d1e80459d43c2ed2bfcb376e6fd67389f8bc49e5dec4a3e675f67}
+2018/12/19 11:49:16 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[130 138 36 223] Payload:[]}
+2018/12/19 11:49:16 {Type:tx ID:3706683543fc07335491c9925996373a5bac1eba91ca8ec85fea0bc2a3972f40}
+2018/12/19 11:49:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[214 4 76 156] Payload:[]}
+2018/12/19 11:49:21 {Type:consensus ID:0d6f16eedbb8108295c72cc4eab0d01f132133e99c5c23e4241006563eb528ea}
+2018/12/19 11:49:22 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[69 127 105 74] Payload:[]}
+2018/12/19 11:49:22 {Type:consensus ID:f3ef96507a59f879a187f32931bdf7d6e80d3018f1a88757a21c29cb61cbf71a}
+2018/12/19 11:49:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[219 199 163 159] Payload:[]}
+2018/12/19 11:49:23 {Type:consensus ID:1dccd3ac0ec23168e5c05b22ee7ab423b8fc85331be4a30a3d73e400b7c96a88}
+2018/12/19 11:49:24 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[26 178 156 15] Payload:[]}
+2018/12/19 11:49:24 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[215 125 56 151] Payload:[]}
+2018/12/19 11:49:24 {Type:tx ID:f67ee3f7e4abc12baf7654f87390d02f35c1796e86e0ec99429c2ac96bebe091}
+2018/12/19 11:49:24 {Type:consensus ID:cd7d48ba7af7843b14eaee51f566add864323248ccf46239eba205f7eae37837}
+2018/12/19 11:49:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[98 145 184 58] Payload:[]}
+2018/12/19 11:49:25 {Type:consensus ID:0fdd0302f55cdb998a625faefbd5fa301e009786a5723770fb12ba353f363cf2}
+2018/12/19 11:49:26 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[206 250 107 0] Payload:[]}
+2018/12/19 11:49:26 {Type:block ID:35056d242fcf50895ec1014656d634f1bee212dfccf83146a786b4547bcc93f0}
+2018/12/19 11:49:26  msg: 35056d242fcf50895ec1014656d634f1bee212dfccf83146a786b4547bcc93f0
+2018/12/19 11:49:28 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[146 180 89 25] Payload:[]}
+2018/12/19 11:49:28 {Type:tx ID:2976d6526e6f9505c160e39c163b079ef13505acf8e20c7d2b5d38ec68b45508}
+2018/12/19 11:49:36 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[154 146 53 59] Payload:[]}
+2018/12/19 11:49:36 {Type:tx ID:3b737b069bc838ac6125a47346dec24e66d0394e970790ed22f392bf0fef6e5b}
+2018/12/19 11:49:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[219 140 102 186] Payload:[]}
+2018/12/19 11:49:37 {Type:consensus ID:d5508d7308c712c948d619ff5da343cb92da83dbeb8caae7fe1deb06df7af91b}
+2018/12/19 11:49:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[242 75 241 188] Payload:[]}
+2018/12/19 11:49:38 {Type:consensus ID:415c28faadb8ccfc85481480c23fab289f1f9cb817ba7a584c2efbbf82434c89}
+2018/12/19 11:49:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[68 180 2 176] Payload:[]}
+2018/12/19 11:49:39 {Type:consensus ID:a412e4d4e70f6646efedcb8dcf5173271577a9cbca465cffa4b2fde21dddca1e}
+2018/12/19 11:49:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[186 4 255 148] Payload:[]}
+2018/12/19 11:49:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[81 139 172 119] Payload:[]}
+2018/12/19 11:49:39 {Type:tx ID:b30a068f98d87ef8a5bd92e9381d32d6b2de46cc72921021a44339492e8a6e7d}
+2018/12/19 11:49:39 {Type:consensus ID:4b1b4cb42ae86b4b4498d27a96aea9632c838c097694ba1f84dd0df5be03fa57}
+2018/12/19 11:49:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[221 118 240 60] Payload:[]}
+2018/12/19 11:49:40 {Type:block ID:0816905edd83ac515f8f12449cdcb9d596da55e878afd6e9c2d5baff83616693}
+2018/12/19 11:49:40  msg: 0816905edd83ac515f8f12449cdcb9d596da55e878afd6e9c2d5baff83616693
+2018/12/19 11:49:47 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[40 77 177 122] Payload:[]}
+2018/12/19 11:49:47 {Type:tx ID:70dc105b81d58836c20a67e1b0955da2e1ac075f97597e4d38b5bbb59b35d89d}
+2018/12/19 11:49:47 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[179 140 25 175] Payload:[]}
+2018/12/19 11:49:47 {Type:tx ID:b4b42941d49b2bdf42ba35bbe8a38ad3cedae90a077eff98565169ac10b583d7}
+2018/12/19 11:49:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[92 178 147 133] Payload:[]}
+2018/12/19 11:49:49 {Type:tx ID:7b977b256e88850e0a5cee927df3d5e8fc90628822f02f20ac1d9e6ea5831cfe}
+2018/12/19 11:49:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[40 128 172 225] Payload:[]}
+2018/12/19 11:49:49 {Type:tx ID:1fa1ad1a11f79e8bcc21b7a3eafd0f57184dbe2f9f3d5e112f1a8237265aead1}
+2018/12/19 11:49:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[42 134 252 244] Payload:[]}
+2018/12/19 11:49:56 {Type:consensus ID:1a8fb4d2056309e3c1070864174834b589bd177ff683d7d0f92581765a7faf44}
+2018/12/19 11:49:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[209 96 112 61] Payload:[]}
+2018/12/19 11:49:56 {Type:consensus ID:ca83e8f962894cad7680a93b065224ea37438841d44a1af45f3ce6b574fa7575}
+2018/12/19 11:49:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[217 48 123 42] Payload:[]}
+2018/12/19 11:49:58 {Type:consensus ID:44c016e41b08877b0632e9e8209df5cf28039444272d6b4b7ea6b5e11448dfd3}
+2018/12/19 11:49:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[202 77 24 253] Payload:[]}
+2018/12/19 11:49:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[225 61 122 234] Payload:[]}
+2018/12/19 11:49:58 {Type:block ID:6f55672ca05194451838f85434724bbbff9505667912de8428391db048f84435}
+2018/12/19 11:49:58  msg: 6f55672ca05194451838f85434724bbbff9505667912de8428391db048f84435
+2018/12/19 11:49:58 {Type:consensus ID:f8bafa269305c99b3308041f378531c2b466b838c5d46990cc5c441b96cf955b}
+2018/12/19 11:50:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[232 5 233 136] Payload:[]}
+2018/12/19 11:50:05 {Type:tx ID:3c811831b5821f927d8a90b07f764ee0a7c2a516cfbe7fd44b59b78d98f38acc}
+2018/12/19 11:50:11 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[232 173 199 149] Payload:[]}
+2018/12/19 11:50:11 {Type:tx ID:0a2e29ade7e5b7e8d02b05e56d0e5b4dc826ada97b35095b805f5a0dc7de8bda}
+2018/12/19 11:50:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[232 176 217 108] Payload:[]}
+2018/12/19 11:50:13 {Type:consensus ID:b96dd58ce576df2f9686d45be9706d733556d9db191c4a55a8e482f3e01a0131}
+2018/12/19 11:50:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[24 209 116 166] Payload:[]}
+2018/12/19 11:50:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[101 41 12 130] Payload:[]}
+2018/12/19 11:50:13 {Type:consensus ID:5c530e4e85e224a0dc9ddb96ab9c75ca663f9d0314744ec20c17a06275cd04c3}
+2018/12/19 11:50:13 {Type:consensus ID:05b3277c9cc8f9b62d9c1a8c0a80935557e55546961c772856ff2c513919ee01}
+2018/12/19 11:50:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[86 62 35 254] Payload:[]}
+2018/12/19 11:50:14 {Type:consensus ID:e3e4c4974d78a5c2d5748af8e7eeb6eb1fa121927877e229c0502e8fc97818e5}
+2018/12/19 11:50:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[17 178 110 199] Payload:[]}
+2018/12/19 11:50:15 {Type:consensus ID:81425f97158ac9ff52d6104531469c095447a91ff8c71f91c596cd12a8276dd3}
+2018/12/19 11:50:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[204 221 228 202] Payload:[]}
+2018/12/19 11:50:15 {Type:block ID:e2b4b2a4c73fd6a7695dad99ef33aac13f2472873f1b825e4398f9178ade250c}
+2018/12/19 11:50:15  msg: e2b4b2a4c73fd6a7695dad99ef33aac13f2472873f1b825e4398f9178ade250c
+2018/12/19 11:50:16 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[52 85 168 209] Payload:[]}
+2018/12/19 11:50:16 {Type:consensus ID:f6cda0338b4b324f85f6f409689d59cd42ffd7ef685c8f03dd5b276ba0595c0a}
+2018/12/19 11:50:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[116 36 157 20] Payload:[]}
+2018/12/19 11:50:19 {Type:tx ID:f4b079e875fbdd6c474b0398a6ac110266cd2e9e623af34493d6f202eb43b710}
+2018/12/19 11:50:26 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[84 250 157 158] Payload:[]}
+2018/12/19 11:50:26 {Type:tx ID:49538ed74a7578715e6a5df206a0aaecd7f70890ed1b8bac8953c8e6a997191c}
+2018/12/19 11:50:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[197 184 51 2] Payload:[]}
+2018/12/19 11:50:30 {Type:consensus ID:db23c32a7467ec0b68d0f3cd63b6420770e5fd41da67f629c96973a59960143f}
+2018/12/19 11:50:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[117 215 139 6] Payload:[]}
+2018/12/19 11:50:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[79 185 94 46] Payload:[]}
+2018/12/19 11:50:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[211 59 229 24] Payload:[]}
+2018/12/19 11:50:30 {Type:consensus ID:0b77ffd4e6ccb8f5d88da541b99b5c9a504c1424911b73bb33bb73a75fa013ab}
+2018/12/19 11:50:30 {Type:consensus ID:9da3993c57b618005a153fefda7ba1923334ec88f6b7515bdd5ff6a0bfff5485}
+2018/12/19 11:50:30 {Type:tx ID:5d1edd44c8cadf12ec9ffaa5f4f886920ad2722c726f9c2ac31d07b06070c750}
+2018/12/19 11:50:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[38 200 18 237] Payload:[]}
+2018/12/19 11:50:32 {Type:consensus ID:3560cd02f82a9ab7d5832b6852b38938a4cb2f240bb09875f123c0d356efe639}
+2018/12/19 11:50:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[182 14 171 193] Payload:[]}
+2018/12/19 11:50:32 {Type:block ID:7c9068905ee5151e0f4a2ae4e29f7a9e86279335d079a2b465074a54423799fe}
+2018/12/19 11:50:32  msg: 7c9068905ee5151e0f4a2ae4e29f7a9e86279335d079a2b465074a54423799fe
+2018/12/19 11:50:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[155 27 132 108] Payload:[]}
+2018/12/19 11:50:34 {Type:tx ID:d7951f741ad92fbace49366b2857a74711298c547e78eff1278080de600626a2}
+2018/12/19 11:50:36 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[49 177 66 47] Payload:[]}
+2018/12/19 11:50:36 {Type:tx ID:4cbbb8764108e98c55a0cc66983b00784b6d1692d984b9f2ad2dda80e437a923}
+2018/12/19 11:50:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[101 82 210 94] Payload:[]}
+2018/12/19 11:50:37 {Type:tx ID:9fb528d667c44dfc09fe8092c574e47af0dfcfa089f53445dce2ccfa405092e6}
+2018/12/19 11:50:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[195 97 24 52] Payload:[]}
+2018/12/19 11:50:39 {Type:tx ID:1fef5f9b6fd31e16121a47511cb152d148ec1528cadde57bb41a6916cb409d6d}
+2018/12/19 11:50:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[73 7 198 53] Payload:[]}
+2018/12/19 11:50:42 {Type:tx ID:1c6c89cc97c2ad2ee86d42182f28c7332ef72acc2cf8aee478b4855eaa5f2ddd}
+2018/12/19 11:50:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[226 46 127 85] Payload:[]}
+2018/12/19 11:50:43 {Type:tx ID:3ea7d01a7836f88ff9ecb2f661b2132ed19cde59e443b798a378b8ffee1b6472}
+2018/12/19 11:50:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[96 50 140 207] Payload:[]}
+2018/12/19 11:50:48 {Type:consensus ID:60c9edcc214b52aea16a00a42dd88ce8273e18fa3c6c124acdb6b48c28abcc11}
+2018/12/19 11:50:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[151 72 252 94] Payload:[]}
+2018/12/19 11:50:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[199 144 3 4] Payload:[]}
+2018/12/19 11:50:48 {Type:consensus ID:f50326ace311ad604282da68eceeb4af1a765f88ef1045f467ece67aa9cfe8a3}
+2018/12/19 11:50:48 {Type:consensus ID:3ca453a7808625800ab68f31f6b99cd38f0af75f82fa199bc6b33ca81da74a54}
+2018/12/19 11:50:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[248 211 57 202] Payload:[]}
+2018/12/19 11:50:49 {Type:consensus ID:704e58d56081046c849c9978d09d935eab0aa48b1ed144a06ca01b110d72d2b1}
+2018/12/19 11:50:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[159 250 136 25] Payload:[]}
+2018/12/19 11:50:50 {Type:consensus ID:e82199454c304082b3bd8e4eb96248bee32f3837ab2b6017f53bd24bf7dd7640}
+2018/12/19 11:50:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[239 214 238 96] Payload:[]}
+2018/12/19 11:50:50 {Type:block ID:152431c15c241b87568311703b2cd23ae30fd0827a7d5de991b4e14875995bef}
+2018/12/19 11:50:50  msg: 152431c15c241b87568311703b2cd23ae30fd0827a7d5de991b4e14875995bef
+2018/12/19 11:51:07 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[160 133 250 132] Payload:[]}
+2018/12/19 11:51:07 {Type:consensus ID:d95c98f4f6331a505fe5adcf0712bb7e012a2c32181186648044374d6118fdc0}
+2018/12/19 11:51:08 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[146 188 83 190] Payload:[]}
+2018/12/19 11:51:08 {Type:consensus ID:d1959f024b443414420a12a81be54fbff004445fbbfe0ef3d61c0e3c620c2c73}
+2018/12/19 11:51:12 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[45 112 100 89] Payload:[]}
+2018/12/19 11:51:12 {Type:consensus ID:9f889502baf2d730280ced64a4b5b6c155d01fed24fb9fc58409a776dc34f5c3}
+2018/12/19 11:51:12 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[251 3 187 63] Payload:[]}
+2018/12/19 11:51:12 {Type:block ID:19011757a52f2e26740ac7a2023e06fce0ff4c5858115b53f5a6694af7d64ca5}
+2018/12/19 11:51:12  msg: 19011757a52f2e26740ac7a2023e06fce0ff4c5858115b53f5a6694af7d64ca5
+2018/12/19 11:51:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[202 200 96 34] Payload:[]}
+2018/12/19 11:51:23 {Type:block ID:316622733310f617457f2b7a52f35a89f616ceac023d5f55c7926a409025d950}
+2018/12/19 11:51:23  msg: 316622733310f617457f2b7a52f35a89f616ceac023d5f55c7926a409025d950
+2018/12/19 11:51:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[109 11 65 171] Payload:[]}
+2018/12/19 11:51:23 {Type:consensus ID:c3b05e1e4ad37b636036d4a60404e711a42aedd2e28da4bb4f0813869d4038c1}
+2018/12/19 11:51:24 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[8 244 185 60] Payload:[]}
+2018/12/19 11:51:24 {Type:consensus ID:99d0f562a0baf461459ee9ac6923c0bbb2418d41a9552d3bc7ebc906e7b13383}
+2018/12/19 11:51:29 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[155 40 113 245] Payload:[]}
+2018/12/19 11:51:29 {Type:tx ID:a915b9f5873d0cc7d10c898b73e4bb6ffb467bec402d5de88a7a6e3dd2fb81ee}
+2018/12/19 11:51:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[174 82 42 31] Payload:[]}
+2018/12/19 11:51:34 {Type:tx ID:3c49eee42eb3be9a960e47eecc68252cd4dbf6953079a903448e2619f0fb80bc}
+2018/12/19 11:51:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[135 54 74 6] Payload:[]}
+2018/12/19 11:51:34 {Type:tx ID:106205381e689c23e5adf5b35af81b1e27a6be5d1a7c6e2fb1567e4fb99f016d}
+2018/12/19 11:51:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[171 165 3 106] Payload:[]}
+2018/12/19 11:51:38 {Type:tx ID:d2daf83dd0035ef89e44bda4c6336b503e7b0395c24f03d833671f1d6ef5a4d0}
+2018/12/19 11:51:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[52 111 32 89] Payload:[]}
+2018/12/19 11:51:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[59 228 77 13] Payload:[]}
+2018/12/19 11:51:38 {Type:consensus ID:3710f0fd0e61446ed2a63e33901ecab9d6cf812fa4ae5748cbb034932b4e788c}
+2018/12/19 11:51:38 {Type:consensus ID:fc99ce526ebcf5c2d08c68db18ecadfb3a444c4c67301b9a397f3388be79b1f6}
+2018/12/19 11:51:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[9 40 93 85] Payload:[]}
+2018/12/19 11:51:40 {Type:consensus ID:b153f9aac95ff523ed874559cdc28b101b8ee214b09ef030fbcfbf1445cad7dd}
+2018/12/19 11:51:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[150 80 146 235] Payload:[]}
+2018/12/19 11:51:40 {Type:consensus ID:1040aad103572918b9c4ba1ef71c5115dc07339370801fc9c9a9e009ef1fba92}
+2018/12/19 11:51:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[133 143 146 69] Payload:[]}
+2018/12/19 11:51:41 {Type:tx ID:f0651674d29e8059c84f24e08a60a821f54798004d50b880be537c02195843c0}
+2018/12/19 11:51:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[14 198 9 188] Payload:[]}
+2018/12/19 11:51:41 {Type:block ID:1028175e3c1b302cbadac553840161cc2e3ec3b089b26288ff463c54a5f6740e}
+2018/12/19 11:51:41  msg: 1028175e3c1b302cbadac553840161cc2e3ec3b089b26288ff463c54a5f6740e
+2018/12/19 11:51:53 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[90 141 27 233] Payload:[]}
+2018/12/19 11:51:53 {Type:tx ID:af5bb46bb3dc2f3cfcc89e3f231524be6029fd50e409a6425186d0494ae40010}
+2018/12/19 11:51:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[248 107 236 223] Payload:[]}
+2018/12/19 11:51:57 {Type:tx ID:5614a06cdd2c889c871ad931ebbf4a8db4dd3b0e679701441e2d345f5df6da2c}
+2018/12/19 11:52:03 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[187 140 51 145] Payload:[]}
+2018/12/19 11:52:03 {Type:consensus ID:7f4941c9a9d72af14c7da08883525f895ba86dfa3db1bbb816a17698f26ba078}
+2018/12/19 11:52:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[33 32 57 166] Payload:[]}
+2018/12/19 11:52:05 {Type:consensus ID:3f3a195f0ce5235e7c17864bc8d22b460fe6bdbe09cd1b8c964414c117f9ae80}
+2018/12/19 11:52:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[174 241 231 73] Payload:[]}
+2018/12/19 11:52:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[225 9 152 35] Payload:[]}
+2018/12/19 11:52:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[1 77 105 8] Payload:[]}
+2018/12/19 11:52:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[8 223 2 111] Payload:[]}
+2018/12/19 11:52:05 {Type:consensus ID:fde9dc5d118469c66111b0b6033dddf3562e6980e592ba74559ee5d0cf1b7b84}
+2018/12/19 11:52:05 {Type:consensus ID:c78e009ce116164db56ffa2d7648f2bbfe83ade0ddd115e0a25057b6df8f9682}
+2018/12/19 11:52:05 {Type:consensus ID:5e2ebfa380f4318cd0288a1ff6dc0e0d66c73d082c84fc34f080b218f4f3db3c}
+2018/12/19 11:52:05 {Type:consensus ID:b8fc7fde11f61bb991714bdf8e9d8784955144ea7bbf72cadd9bf64a90b24553}
+2018/12/19 11:52:07 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[97 166 13 205] Payload:[]}
+2018/12/19 11:52:07 {Type:consensus ID:d38a40908bfbf56b2f3420dca385d090d07c069fead03b19473ee620b85b656d}
+2018/12/19 11:52:08 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[38 94 52 9] Payload:[]}
+2018/12/19 11:52:08 {Type:tx ID:1f920148cd7850b8473b57e6a9e01174a759a99d2ee503fab83166b25a029693}
+2018/12/19 11:52:11 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[253 86 11 220] Payload:[]}
+2018/12/19 11:52:11 {Type:block ID:4cb81d856684d206b8969f83c9f081e91bfae08bf3c31c2f236ffb421b049df0}
+2018/12/19 11:52:11  msg: 4cb81d856684d206b8969f83c9f081e91bfae08bf3c31c2f236ffb421b049df0
+2018/12/19 11:52:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[221 161 220 204] Payload:[]}
+2018/12/19 11:52:13 {Type:tx ID:716a0ce1d7388645ec96de74a10ac9cff91801a5d36d4377ee68b502ae557c26}
+2018/12/19 11:52:17 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[79 251 175 120] Payload:[]}
+2018/12/19 11:52:17 {Type:tx ID:72197ffcda4013598cfcf643f6f94a3a595068a7874d813c1c1763d3ab58b7f7}
+2018/12/19 11:52:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[199 50 46 149] Payload:[]}
+2018/12/19 11:52:21 {Type:consensus ID:a50264d6fbbbb05254f1cc73d08475d7c5c801944d3336e451bf952ad06f60de}
+2018/12/19 11:52:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[17 236 223 58] Payload:[]}
+2018/12/19 11:52:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[32 142 221 243] Payload:[]}
+2018/12/19 11:52:21 {Type:consensus ID:1227492d4e5298be3a5d77d8f488c642ed96d7474180ec9d8cb9b995ed87b30e}
+2018/12/19 11:52:21 {Type:consensus ID:56330ed88d64e79a96b60386de73748503b2b07b372492fdacfc7efc971e71af}
+2018/12/19 11:52:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[24 6 148 233] Payload:[]}
+2018/12/19 11:52:23 {Type:consensus ID:76c8789272f8ca7408843a1b85ad088f2823c6f24dc57c077a604fa14e6cc22c}
+2018/12/19 11:52:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[135 84 187 10] Payload:[]}
+2018/12/19 11:52:23 {Type:consensus ID:6e619ce96b3325e78585cc33d5ea87425480e8b5dbe80c180e87f1f7002ae039}
+2018/12/19 11:52:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[197 142 52 84] Payload:[]}
+2018/12/19 11:52:25 {Type:consensus ID:96e73874f8780652c0c66f0e46205fde4d4469e90b19791405a3aee3708bfc5e}
+2018/12/19 11:52:26 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[61 230 42 186] Payload:[]}
+2018/12/19 11:52:26 {Type:block ID:71c27c723b202fb00dd4711c87e7fb2373242ea16c3d26d88ca01ae26c5c36ec}
+2018/12/19 11:52:26  msg: 71c27c723b202fb00dd4711c87e7fb2373242ea16c3d26d88ca01ae26c5c36ec
+2018/12/19 11:52:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[27 37 181 48] Payload:[]}
+2018/12/19 11:52:31 {Type:tx ID:15f773810c8991c604171467e67fccc23157636cd5f1a7bcf1a77ec0660dbd22}
+2018/12/19 11:52:33 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[171 165 2 199] Payload:[]}
+2018/12/19 11:52:33 {Type:tx ID:93a62c67a8bb39fbf706125d0af82d3a2b307e614c4eaf4594998bc1b0d05bff}
+2018/12/19 11:52:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[68 123 42 0] Payload:[]}
+2018/12/19 11:52:34 {Type:tx ID:1413e45cfada992bbffb096cb8d64f8e918a15b6b93b689f43a36d638b7a8317}
+2018/12/19 11:52:36 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[36 94 252 170] Payload:[]}
+2018/12/19 11:52:36 {Type:tx ID:02b156d5fc482eb52d4a5cef68c1670a3da3c4701539ca0db2311fc3cfa6f903}
+2018/12/19 11:52:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[107 157 95 26] Payload:[]}
+2018/12/19 11:52:38 {Type:consensus ID:3c24ed15f4f7f84444bfd8beb25d89d26ae24dae577569f39e334fbd5009f676}
+2018/12/19 11:52:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[171 209 141 6] Payload:[]}
+2018/12/19 11:52:38 {Type:consensus ID:179b2c0f0acd2398dfca26219aef0dcb34cc9ecf0ec2ed4fad9b72e54178bf4f}
+2018/12/19 11:52:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[117 147 76 86] Payload:[]}
+2018/12/19 11:52:39 {Type:consensus ID:0c423e2c9498387864a9cfb7ca7b7e615b70eb033ad73b5d3c6af614a48a28bf}
+2018/12/19 11:52:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[172 117 53 83] Payload:[]}
+2018/12/19 11:52:40 {Type:consensus ID:96f68504552a194d8317cd8791fe1573221e33a6528e62c22ea237d0a819f340}
+2018/12/19 11:52:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[72 195 162 15] Payload:[]}
+2018/12/19 11:52:40 {Type:tx ID:36793572221991e8eec1739f8112cec66b33f6f5d9e00e0922a140d2bb99942b}
+2018/12/19 11:52:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[32 235 9 235] Payload:[]}
+2018/12/19 11:52:42 {Type:tx ID:3fd5629bf31bbd21b8a80a5117f1180f93c699d0e46b7f67557ccd80dcc211e0}
+2018/12/19 11:52:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[193 125 140 11] Payload:[]}
+2018/12/19 11:52:42 {Type:consensus ID:b4426347f2209377e7a6dcbc93ac76dbc24dd3c7563243bfcf6167de73bc8d28}
+2018/12/19 11:52:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[137 133 46 165] Payload:[]}
+2018/12/19 11:52:43 {Type:tx ID:26076aa63656d28523b34bc498ec330d8e6b0c2956dc1ce655c3dc24bdce9dd7}
+2018/12/19 11:52:45 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[200 161 179 184] Payload:[]}
+2018/12/19 11:52:45 {Type:block ID:3a0cd5d911684a93e3f2496dc008cb65ed1e22d4852d0530f48a9ebfbb0bb009}
+2018/12/19 11:52:45  msg: 3a0cd5d911684a93e3f2496dc008cb65ed1e22d4852d0530f48a9ebfbb0bb009
+2018/12/19 11:52:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[16 143 31 55] Payload:[]}
+2018/12/19 11:52:56 {Type:consensus ID:b581cbaf06451812dbd437390b3e14b50c90cddaac593b1b770a90186e30823c}
+2018/12/19 11:52:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[180 12 203 190] Payload:[]}
+2018/12/19 11:52:57 {Type:consensus ID:6762da33a5681fc9a7157bf5fe0d69b18ffbfa5143fdee18ad512fdc725a88fc}
+2018/12/19 11:52:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[54 65 15 14] Payload:[]}
+2018/12/19 11:52:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[160 14 73 154] Payload:[]}
+2018/12/19 11:52:57 {Type:consensus ID:d4a81bafb677064347ab1d932eda6ec4ab988c7aabe3681f75e06ac9c583f313}
+2018/12/19 11:52:57 {Type:consensus ID:abeb881db66f6aed940101d2e591c2bede7f7fa83ceba2329391822b29b9b102}
+2018/12/19 11:52:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[49 173 57 148] Payload:[]}
+2018/12/19 11:52:58 {Type:consensus ID:378389eeaf8910db269b6ae0565012ac094032787a8de47e7f5bb069f790e7f0}
+2018/12/19 11:53:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[94 214 48 18] Payload:[]}
+2018/12/19 11:53:00 {Type:consensus ID:4dc37780e8935f5342c5330d035effedcb922ffd5c48a33f19af336367b892c8}
+2018/12/19 11:53:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[145 111 120 101] Payload:[]}
+2018/12/19 11:53:01 {Type:consensus ID:e3b91febe09f51706cdc14db11896eb0c13d7d335ea1ba57eed24413615d8fab}
+2018/12/19 11:53:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[72 56 75 253] Payload:[]}
+2018/12/19 11:53:04 {Type:block ID:9612c28ca885a7982802759e50fba7d131788fb56b0ff1b1984d5b3cc60532f1}
+2018/12/19 11:53:04  msg: 9612c28ca885a7982802759e50fba7d131788fb56b0ff1b1984d5b3cc60532f1
+2018/12/19 11:53:07 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[146 15 98 23] Payload:[]}
+2018/12/19 11:53:07 {Type:tx ID:6c60bbb2637e8c13bbfb3a2fe319da62664d494ce452c5f85778a0927fdff4ee}
+2018/12/19 11:53:12 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[214 209 247 40] Payload:[]}
+2018/12/19 11:53:12 {Type:tx ID:f253e7e0259c7a3c88f5dd386114b06162148baaf3ff135bd4b3983efbfc82b2}
+2018/12/19 11:53:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[176 168 110 230] Payload:[]}
+2018/12/19 11:53:14 {Type:consensus ID:d5749823ca11beab3ed3714e136da2533d88a389ec8a0ada5fcbb89efbbd7f58}
+2018/12/19 11:53:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[7 218 4 170] Payload:[]}
+2018/12/19 11:53:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[196 172 82 104] Payload:[]}
+2018/12/19 11:53:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[61 90 92 146] Payload:[]}
+2018/12/19 11:53:14 {Type:consensus ID:c8ffc01d00d05437ddb0d4c38ec8bc3cf4a4673b61d391a879a47f87afc5892b}
+2018/12/19 11:53:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[167 178 117 246] Payload:[]}
+2018/12/19 11:53:14 {Type:consensus ID:8adf58cecd912cab92221fc2cd6200a264a9af93d70332c6853e1288e1e51851}
+2018/12/19 11:53:14 {Type:consensus ID:df5adb17887559aa7c971fc54cf17d95dbd3900f7897e8e268faedb497708079}
+2018/12/19 11:53:14 {Type:consensus ID:a282b755b12924d1fd9e03eb55aaa59b266d0c3b7c35383954ce0f0bbdae3cfb}
+2018/12/19 11:53:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[118 20 138 110] Payload:[]}
+2018/12/19 11:53:15 {Type:consensus ID:f3e5d7cd342337758ad490a68b669c42bdb11824f3b5fa76b5e0900956a36a35}
+2018/12/19 11:53:16 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[12 125 227 61] Payload:[]}
+2018/12/19 11:53:16 {Type:consensus ID:f1a84bd9a0d6ca656b9e52db5e1898048484992da406932ac3f6b849aea6a20d}
+2018/12/19 11:53:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[254 175 189 14] Payload:[]}
+2018/12/19 11:53:18 {Type:block ID:37e429806a2bf0838a455ab500ec855e846004d3551e359e9955fae179c0a132}
+2018/12/19 11:53:18  msg: 37e429806a2bf0838a455ab500ec855e846004d3551e359e9955fae179c0a132
+2018/12/19 11:53:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[2 161 45 29] Payload:[]}
+2018/12/19 11:53:25 {Type:tx ID:a77f04192b5a0ab91cf7fdaa465d617f375ab597f22e00bcefabab22af59ff3d}
+2018/12/19 11:53:26 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[80 138 3 192] Payload:[]}
+2018/12/19 11:53:26 {Type:tx ID:57cc2207af91c925530fc82a3f25578c25720ae76bd0828092557eaeecb98088}
+2018/12/19 11:53:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[64 149 228 97] Payload:[]}
+2018/12/19 11:53:27 {Type:tx ID:a4feb8f2960dca723a1ca06280483ca4380935a62339b0ff81bd4eb9c5e26d8d}
+2018/12/19 11:53:29 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[67 167 221 61] Payload:[]}
+2018/12/19 11:53:29 {Type:consensus ID:1fb5cc2a137a91aa68410759e0750efe1ab2c798583b880f71a8d122cf3a69b6}
+2018/12/19 11:53:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[20 231 5 50] Payload:[]}
+2018/12/19 11:53:30 {Type:consensus ID:1e5ea8025b57ba3103fc36cb2ba2ea52607a96252fca11053a272edbf9a9374e}
+2018/12/19 11:53:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[71 234 177 228] Payload:[]}
+2018/12/19 11:53:30 {Type:consensus ID:ebf2f2b7430a2d84773dca409d9c3c5dee94da2b4fe726a9c5020ab5e6f95bfa}
+2018/12/19 11:53:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[85 3 251 197] Payload:[]}
+2018/12/19 11:53:31 {Type:consensus ID:7fe68a056f1779925ef3926927e6f2e85c308b9b6cfeac1aaff070e7b0e24bca}
+2018/12/19 11:53:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[228 69 203 255] Payload:[]}
+2018/12/19 11:53:32 {Type:consensus ID:f3986982780f27ae877706cedeb333522748a96022be0e98603595292e28911f}
+2018/12/19 11:53:33 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[139 135 175 216] Payload:[]}
+2018/12/19 11:53:33 {Type:consensus ID:b6140d92e89db986a205b130138888624b8fafed4f62034110631e3cc879369d}
+2018/12/19 11:53:36 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[210 222 27 188] Payload:[]}
+2018/12/19 11:53:36 {Type:block ID:07f1116b37c7511aa5db5b7acd2f5eebbd18e3aa0aea6022f7a3b784d5875303}
+2018/12/19 11:53:36  msg: 07f1116b37c7511aa5db5b7acd2f5eebbd18e3aa0aea6022f7a3b784d5875303
+2018/12/19 11:53:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[177 181 199 179] Payload:[]}
+2018/12/19 11:53:41 {Type:tx ID:c20bb1930858956db377c09651800c870e718c273ea7b8215e9107231d1c57dc}
+2018/12/19 11:53:45 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[17 128 209 249] Payload:[]}
+2018/12/19 11:53:45 {Type:consensus ID:57f3b66a68ef8ac0d91b338e96aa359d84dcff81bd469ae399bcb39a5acbf405}
+2018/12/19 11:53:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[11 76 254 236] Payload:[]}
+2018/12/19 11:53:46 {Type:consensus ID:6f76d6efe3321c194543760ca72e819f42758d36754f87ad42976116969223ab}
+2018/12/19 11:53:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[155 215 207 79] Payload:[]}
+2018/12/19 11:53:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[129 203 145 21] Payload:[]}
+2018/12/19 11:53:46 {Type:consensus ID:de5cb84758d0dd0664abbb6d2ddeaaf0b8de897779c62b92eeace578a66894e7}
+2018/12/19 11:53:46 {Type:consensus ID:4e8a926e9d5c1c45d494046decf4f07ffb19c311ee520281a7cfb7f25f239c32}
+2018/12/19 11:53:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[73 57 134 174] Payload:[]}
+2018/12/19 11:53:48 {Type:consensus ID:6928ea8b125f9f469b6bd8f9d397c655a0bf4226056b90f977c93aea5b66842c}
+2018/12/19 11:53:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[58 145 167 79] Payload:[]}
+2018/12/19 11:53:49 {Type:consensus ID:1b7dffdd86e3e59e33a5cae2a1cd7ac1bd8f6284e9f1f7f98197bf9ca9a73d35}
+2018/12/19 11:53:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[143 111 20 96] Payload:[]}
+2018/12/19 11:53:50 {Type:consensus ID:da3da70deb5f95b9e48796bab5bf135b09526fdc4fdb68b4a022a3ee4c0ccadc}
+2018/12/19 11:53:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[110 43 21 126] Payload:[]}
+2018/12/19 11:53:51 {Type:block ID:ed183d1e9df67c7b7e885c03c5fb85658c36ea8cc9908fe7e866ac7c0df431e5}
+2018/12/19 11:53:51  msg: ed183d1e9df67c7b7e885c03c5fb85658c36ea8cc9908fe7e866ac7c0df431e5
+2018/12/19 11:53:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[174 38 156 118] Payload:[]}
+2018/12/19 11:53:56 {Type:tx ID:81a968db29508e8cdc6fdcc3c9cd9c62acc806dcb4366bc730a415836038e915}
+2018/12/19 11:53:59 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[242 169 131 68] Payload:[]}
+2018/12/19 11:53:59 {Type:tx ID:64a484c9242e82250e3372b3735c9d26561cfe15acab389c97727055099e1426}
+2018/12/19 11:54:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[240 108 203 110] Payload:[]}
+2018/12/19 11:54:04 {Type:consensus ID:42dadd59d184c3e1ebfccdc0b58f77da7a803f412668b4fe13a78bb4ec68e113}
+2018/12/19 11:54:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[233 76 24 153] Payload:[]}
+2018/12/19 11:54:06 {Type:consensus ID:76961b7c95ecb24b5f475543373ce19f6e183380b1f973d118bfd95416c2e1bb}
+2018/12/19 11:54:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[26 82 119 139] Payload:[]}
+2018/12/19 11:54:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[202 138 72 251] Payload:[]}
+2018/12/19 11:54:06 {Type:consensus ID:00734ae6c3b2cc4dc1bc98496e90e3bf25b2d323b1103b23b48a4daf1e988983}
+2018/12/19 11:54:06 {Type:consensus ID:7c50aa990d56831ce8966c5d7919786bc9a5ac55950873177d36cd92bf88de4b}
+2018/12/19 11:54:10 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[169 71 5 204] Payload:[]}
+2018/12/19 11:54:10 {Type:consensus ID:2322de7fbbc22f10576d39bf659d34abe3446bb30615232375fabfcefd955bd7}
+2018/12/19 11:54:12 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[141 86 190 160] Payload:[]}
+2018/12/19 11:54:12 {Type:block ID:47722e844c482fdab2b65568512d894e89eea16f86d2062be38c146e91e6dfcf}
+2018/12/19 11:54:12  msg: 47722e844c482fdab2b65568512d894e89eea16f86d2062be38c146e91e6dfcf
+2018/12/19 11:54:22 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[17 24 120 84] Payload:[]}
+2018/12/19 11:54:22 {Type:consensus ID:24a110a2781877c5486692b2762c002c65c2e8c44a7aaf0d4c5233ab841094eb}
+2018/12/19 11:54:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[113 234 254 220] Payload:[]}
+2018/12/19 11:54:23 {Type:consensus ID:4eb2f9afd8fdb76b74564d8272e099d25c456f0188acce61b9b9e508a934db00}
+2018/12/19 11:54:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[65 88 145 112] Payload:[]}
+2018/12/19 11:54:23 {Type:consensus ID:241dd3a9b65638483d0deebbc9464eb0b2d475b784ec729997e836241fe15b1e}
+2018/12/19 11:54:24 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[144 125 130 69] Payload:[]}
+2018/12/19 11:54:24 {Type:consensus ID:2bd9a4b46747c85eea053484895ea64c2ab9f435f2bf78fa4ee9b27a92875600}
+2018/12/19 11:54:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[36 227 70 227] Payload:[]}
+2018/12/19 11:54:25 {Type:consensus ID:3df07ce43328ace9e779a612ef156989ce0743c13b6562bda5c314b9b824aac7}
+2018/12/19 11:54:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[11 242 92 154] Payload:[]}
+2018/12/19 11:54:25 {Type:consensus ID:fb38f6437c57a8cd8df058fca5e9e5f05cc4ffce7fc081972349c72648edc497}
+2018/12/19 11:54:26 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[121 87 27 184] Payload:[]}
+2018/12/19 11:54:26 {Type:consensus ID:c438970f407e2b410d7dd4532ecb01227772170ceecb10a679c75620da15f67e}
+2018/12/19 11:54:28 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[7 107 241 105] Payload:[]}
+2018/12/19 11:54:28 {Type:block ID:32babcde78d5f3684f4fe42ee010814a72e20e8abb1708e2a54d6ebf08393af5}
+2018/12/19 11:54:28  msg: 32babcde78d5f3684f4fe42ee010814a72e20e8abb1708e2a54d6ebf08393af5
+2018/12/19 11:54:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[215 25 203 4] Payload:[]}
+2018/12/19 11:54:40 {Type:consensus ID:3978141c8db27063ad79c53e5e73ef8704e8b04dc67664a3d01a9b601dfe1588}
+2018/12/19 11:54:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[122 87 123 101] Payload:[]}
+2018/12/19 11:54:41 {Type:consensus ID:ba77a6142af184e12e7c4d36840e5c11a277e9f84696d834b349ef452720b764}
+2018/12/19 11:54:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[248 34 205 227] Payload:[]}
+2018/12/19 11:54:42 {Type:tx ID:62e3204e5a3316eeb3ce9779d3796b06de911350cba807dd3c1a2ebcb846f09c}
+2018/12/19 11:54:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[36 24 213 222] Payload:[]}
+2018/12/19 11:54:42 {Type:consensus ID:57b0be0c88acd5dd7b96ea60e98014f491f50a33c2cbea5db875484120476d00}
+2018/12/19 11:54:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[180 197 180 193] Payload:[]}
+2018/12/19 11:54:43 {Type:tx ID:5c8d14ae34db66bcbee4f1056fe88c71ead06833fa8da9ba1cae7d9ccc4b3957}
+2018/12/19 11:54:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[192 52 122 116] Payload:[]}
+2018/12/19 11:54:43 {Type:consensus ID:3d804ff4fa0bd1a925764dd843a90287a74c59532f99c3ff560c8e7a7f7603d9}
+2018/12/19 11:54:44 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[196 7 68 186] Payload:[]}
+2018/12/19 11:54:44 {Type:consensus ID:a390506a6e98a78e6d474bcd53ad8e677c786389505ba927e89003f5094369b0}
+2018/12/19 11:54:45 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[73 237 224 165] Payload:[]}
+2018/12/19 11:54:45 {Type:consensus ID:8af08c356833a6567bef7960f0c1a25a549c21014916fc6c1d1575909aa2ab6b}
+2018/12/19 11:54:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[166 26 244 84] Payload:[]}
+2018/12/19 11:54:48 {Type:block ID:a5f34c9d6ecd47755140b12057acebbc51d7b5b3d4f872cfb62b256a652a0c35}
+2018/12/19 11:54:48  msg: a5f34c9d6ecd47755140b12057acebbc51d7b5b3d4f872cfb62b256a652a0c35
+2018/12/19 11:54:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[201 195 213 56] Payload:[]}
+2018/12/19 11:54:50 {Type:tx ID:ada4a55d539bfe17220c9817d96b193785aa49ad69fdf161cee3f5f97712a2d5}
+2018/12/19 11:54:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[114 49 95 213] Payload:[]}
+2018/12/19 11:54:58 {Type:consensus ID:97d4f8442b83d26b8681028951ac60a976f3f8624681a04a84640be787be6aec}
+2018/12/19 11:54:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[90 194 249 76] Payload:[]}
+2018/12/19 11:54:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[193 76 29 28] Payload:[]}
+2018/12/19 11:54:58 {Type:consensus ID:377e5ccd2163f047b10fbfc18aa2c050d0d32c1ab686cc75bbe1fbad1afc5170}
+2018/12/19 11:54:58 {Type:consensus ID:a509428a0d8badc918d2d022b7309b3dd8aaf0f41a2cf31fb11869d93a355dc6}
+2018/12/19 11:54:59 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[189 117 89 19] Payload:[]}
+2018/12/19 11:54:59 {Type:consensus ID:9380f9410de91dbda531d9662e4473418e3f6350b6371616455148df2fcddde8}
+2018/12/19 11:55:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[197 152 207 166] Payload:[]}
+2018/12/19 11:55:00 {Type:consensus ID:5e4aeb318f80b4a41ea5954996635683d2bff74892e2712517acb3ddf6808b22}
+2018/12/19 11:55:02 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[215 211 102 226] Payload:[]}
+2018/12/19 11:55:02 {Type:consensus ID:bf4b006717bb8e96949675091b579e934021cc09207e0436e5644cdeb0722a1c}
+2018/12/19 11:55:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[19 138 231 12] Payload:[]}
+2018/12/19 11:55:06 {Type:block ID:165cb513e0713d135b9b4650a51900e47824dd183488d82e7f9e8b844da8b9c8}
+2018/12/19 11:55:06  msg: 165cb513e0713d135b9b4650a51900e47824dd183488d82e7f9e8b844da8b9c8
+2018/12/19 11:55:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[158 154 39 149] Payload:[]}
+2018/12/19 11:55:06 {Type:tx ID:131c783bbe8399a1aedded9a10547f07983afcb77d1c0bfb888ae78473b9ebf1}
+2018/12/19 11:55:10 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[146 112 130 241] Payload:[]}
+2018/12/19 11:55:10 {Type:tx ID:dd4ceca165b4584f9744a9c58e1123f53de027bf8715c80bf4b53ab99df913e2}
+2018/12/19 11:55:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[217 87 143 249] Payload:[]}
+2018/12/19 11:55:14 {Type:consensus ID:823376772ea5d2be2adb77488a182c2471549119c6b0978d50abf61c8d133ae9}
+2018/12/19 11:55:14 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[200 116 110 185] Payload:[]}
+2018/12/19 11:55:14 {Type:consensus ID:396fc3114a6cc5d24ba67a0eeb0e93adca314c04d9a6ed906e14b6d8ff6b9196}
+2018/12/19 11:55:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[71 146 44 179] Payload:[]}
+2018/12/19 11:55:15 {Type:consensus ID:bd78fbb2a634595fe0d8b2070658c853aa5d4b40855f89f49bb2aaf6305b26d8}
+2018/12/19 11:55:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[204 170 13 223] Payload:[]}
+2018/12/19 11:55:15 {Type:consensus ID:5bee914a994fb3df8a8085c8b09ca170f260b93b0bd2e4cd77d1c629f35d9b57}
+2018/12/19 11:55:16 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[24 75 200 140] Payload:[]}
+2018/12/19 11:55:16 {Type:consensus ID:c331413f77796064abb9e265cb3fe7789f3cb1b94b0b1e9f303dc52da9c812c5}
+2018/12/19 11:55:17 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[8 181 51 89] Payload:[]}
+2018/12/19 11:55:17 {Type:consensus ID:a9cf0f25686687ae699a256143e4ff868820c3c807310695cb75393bdea87f9f}
+2018/12/19 11:55:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[102 38 146 232] Payload:[]}
+2018/12/19 11:55:18 {Type:block ID:7ac90260a92f16aa321fd2e86f51105ae1337dbab69aa500862a9bb75a2bf8b8}
+2018/12/19 11:55:18  msg: 7ac90260a92f16aa321fd2e86f51105ae1337dbab69aa500862a9bb75a2bf8b8
+2018/12/19 11:55:20 msg = &{Magic:7630401 Command:inv Length:322 Checksum:[40 82 187 238] Payload:[]}
+2018/12/19 11:55:20 {Type:tx ID:dd4ceca165b4584f9744a9c58e1123f53de027bf8715c80bf4b53ab99df913e2}
+2018/12/19 11:55:20 {Type:tx ID:131c783bbe8399a1aedded9a10547f07983afcb77d1c0bfb888ae78473b9ebf1}
+2018/12/19 11:55:20 {Type:tx ID:ff126554528d46a133bedaf39e77f1a4f9d759468aa9fdee0b66e55f37acb095}
+2018/12/19 11:55:20 {Type:tx ID:c7c3b4487d02ae03bd007a92a642fbccb9264f8fd497d2be2f6bb126d9d2aeed}
+2018/12/19 11:55:20 {Type:tx ID:7100eda2115a79da9a69772c7141c85dca97e0976fbbf7452843f46e384cdb11}
+2018/12/19 11:55:20 {Type:tx ID:d0c5d7abf7511134772373ed7514899959748e5068465d32c31bb06828e1e3db}
+2018/12/19 11:55:20 {Type:tx ID:5c8d14ae34db66bcbee4f1056fe88c71ead06833fa8da9ba1cae7d9ccc4b3957}
+2018/12/19 11:55:20 {Type:tx ID:763caba0addd61977ca12b87736bf9d9d53cf4bf9fe844dbdc9e42bb58626ae2}
+2018/12/19 11:55:20 {Type:tx ID:62e3204e5a3316eeb3ce9779d3796b06de911350cba807dd3c1a2ebcb846f09c}
+2018/12/19 11:55:20 {Type:tx ID:ada4a55d539bfe17220c9817d96b193785aa49ad69fdf161cee3f5f97712a2d5}
+2018/12/19 11:55:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[19 94 32 158] Payload:[]}
+2018/12/19 11:55:27 {Type:tx ID:36808b8bbd60907a29cccff1af0fb0a673ced7580e3eeeff5373eef14406f3cc}
+2018/12/19 11:55:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[78 188 233 41] Payload:[]}
+2018/12/19 11:55:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[223 113 97 94] Payload:[]}
+2018/12/19 11:55:27 {Type:tx ID:cabd8836d25aa1f9d3333d93bd0d4c115f3b864732c9929e4a7e31375c243b00}
+2018/12/19 11:55:27 {Type:tx ID:6afccd8c1d9c19a1af8d16aa2a984670a5fecbbb73d3bede5731bb01e58bd73b}
+2018/12/19 11:55:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[193 64 237 41] Payload:[]}
+2018/12/19 11:55:30 {Type:consensus ID:24bfdde2a7d0c2a30dcf9abdb5a26db94f5d2627d935e5c0e95524afa0144198}
+2018/12/19 11:55:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[47 198 237 201] Payload:[]}
+2018/12/19 11:55:31 {Type:consensus ID:f7c0840522ca12a440eaffce3fbe3ef1de32ff9592d5f134c30412457f15a8ff}
+2018/12/19 11:55:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[99 50 28 36] Payload:[]}
+2018/12/19 11:55:32 {Type:tx ID:eca766cf3824dbc89dff9095a38374161b409f148bbf7ddb5ca8ef011353fd8a}
+2018/12/19 11:55:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[127 39 138 192] Payload:[]}
+2018/12/19 11:55:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[200 129 246 46] Payload:[]}
+2018/12/19 11:55:32 {Type:consensus ID:2609f2d8c988473acb7c9230e59fedd314f56774bc72f4f6ab18d6879e377083}
+2018/12/19 11:55:32 {Type:consensus ID:1864f682e628e2c864c922a3c9570bc7f24f748a3eae8b5e61aa633272f101e4}
+2018/12/19 11:55:33 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[30 115 191 49] Payload:[]}
+2018/12/19 11:55:33 {Type:consensus ID:1d164140e13f93c4be94d876b919b7adab5aee93826ebf3698d82d70bb6b0168}
+2018/12/19 11:55:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[29 114 236 36] Payload:[]}
+2018/12/19 11:55:34 {Type:tx ID:4c919b13c5f8a4996b2c8402a95bd7be88e5395a879c34a526babf6073294a9b}
+2018/12/19 11:55:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[80 203 159 77] Payload:[]}
+2018/12/19 11:55:34 {Type:consensus ID:b702fb5c5d4458fab321711956d61b738ea316a91592412dddfcffd085f40242}
+2018/12/19 11:55:36 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[162 45 68 115] Payload:[]}
+2018/12/19 11:55:36 {Type:block ID:f112f49e8f3aaf46372261768825bde6a3d3e7491bfc7995febac05c34c78fd8}
+2018/12/19 11:55:36  msg: f112f49e8f3aaf46372261768825bde6a3d3e7491bfc7995febac05c34c78fd8
+2018/12/19 11:55:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[129 12 214 139] Payload:[]}
+2018/12/19 11:55:39 {Type:tx ID:f56d168a1c6ed6f02d0e4845577dcb9190f8a01629a6d5f871f091db067d34fb}
+2018/12/19 11:55:40 msg = &{Magic:7630401 Command:inv Length:66 Checksum:[188 58 76 117] Payload:[]}
+2018/12/19 11:55:40 {Type:tx ID:e403daf722dd318d9ad0b9d673a5697c8f52318bafa913e642320936b16b1d9f}
+2018/12/19 11:55:40 {Type:tx ID:951d449c75438ebe5383066221b69d959d062c3ecf06142c6de3d6443a4033b5}
+2018/12/19 11:55:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[101 146 145 118] Payload:[]}
+2018/12/19 11:55:41 {Type:tx ID:167973baed88696de5aa2c3e2b8e86753304fb01aec3457567e88f7c6d6591fa}
+2018/12/19 11:55:44 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[116 16 215 64] Payload:[]}
+2018/12/19 11:55:44 {Type:tx ID:2663931a00bf5fe54aa8ccff15299f9aa7511824e41d0d727759455c0ac3b402}
+2018/12/19 11:55:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[44 157 3 154] Payload:[]}
+2018/12/19 11:55:48 {Type:consensus ID:d323e4d5c2a8ef4b53caf7c3313347c82ed222d3e833b2d6b8abb6b94ecf2b05}
+2018/12/19 11:55:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[137 0 144 7] Payload:[]}
+2018/12/19 11:55:49 {Type:consensus ID:c4d97e58b3b551c2ec15ebabcf46b7e43180c720c7d79cd092b2bf01511824f4}
+2018/12/19 11:55:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[82 33 250 68] Payload:[]}
+2018/12/19 11:55:50 {Type:consensus ID:f531d5826998ad0bfd586e097b0891a3d07ef6ec5683b472f6a05c9c2bf6db32}
+2018/12/19 11:55:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[1 37 51 34] Payload:[]}
+2018/12/19 11:55:50 {Type:consensus ID:dbd11b47f8fedcb045f2ce56ed0f34d234a74b7963a526b355f16cb5f4a5c043}
+2018/12/19 11:55:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[110 75 56 45] Payload:[]}
+2018/12/19 11:55:51 {Type:consensus ID:6c28bd953e29cc08054bbc91e0c5fc7963933bac3441d9974961760808278b57}
+2018/12/19 11:55:52 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[122 54 103 57] Payload:[]}
+2018/12/19 11:55:52 {Type:tx ID:ea8d4e78df15d5b8b133944857699367535e44b65e1a37824f86335aa1907b1c}
+2018/12/19 11:55:54 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[129 164 88 9] Payload:[]}
+2018/12/19 11:55:54 {Type:block ID:222119eb90ab4b0ff0d9b543bedc61dadd51e63da8bd3ba6f47e1a0451e81eb0}
+2018/12/19 11:55:54  msg: 222119eb90ab4b0ff0d9b543bedc61dadd51e63da8bd3ba6f47e1a0451e81eb0
+2018/12/19 11:55:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[105 158 168 176] Payload:[]}
+2018/12/19 11:55:57 {Type:tx ID:e93b83ee95530792f6f4994897b3e32456096bd37e1d0dc52dd6dcd2d3466a8a}
+2018/12/19 11:56:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[203 75 163 122] Payload:[]}
+2018/12/19 11:56:00 {Type:tx ID:a79e35014b023c28b81392a366f6f730ac76b2e090bddbb4bb741d63d3796a2e}
+2018/12/19 11:56:07 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[127 209 92 152] Payload:[]}
+2018/12/19 11:56:07 {Type:consensus ID:9b10d1f464cb664625bd783247d347fba4992c887d6c1aeede5ae9971deebdaf}
+2018/12/19 11:56:08 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[215 225 248 202] Payload:[]}
+2018/12/19 11:56:08 {Type:consensus ID:2fc84adea3f582405d1fe535f68ac916a8a0ffd999c201032da1622a68141161}
+2018/12/19 11:56:08 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[25 222 124 7] Payload:[]}
+2018/12/19 11:56:08 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[72 58 181 91] Payload:[]}
+2018/12/19 11:56:08 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[247 138 177 140] Payload:[]}
+2018/12/19 11:56:08 {Type:consensus ID:cd54e2f04467940abaab67882bf60f3c58edc74c6402f3e40e63bb40ae2fb044}
+2018/12/19 11:56:08 {Type:consensus ID:d967700a55baa9fac3d55a9e8942a5dd711004906c1bf862649a0969d3040123}
+2018/12/19 11:56:08 {Type:consensus ID:63b97f20b1c3e3b28ce0537da67a348eb27ee3b599e76ea55432d0f989c9b676}
+2018/12/19 11:56:10 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[11 238 130 74] Payload:[]}
+2018/12/19 11:56:10 {Type:consensus ID:2a86d7dc5b83b9907af1e7e05a7dc719ef008f98ea608cfb79f6686ac7297d76}
+2018/12/19 11:56:11 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[59 111 160 78] Payload:[]}
+2018/12/19 11:56:11 {Type:block ID:9ee7a63ae3ff7b1841fb83dd55642631e831abee8480b258d83d27c4aaae794d}
+2018/12/19 11:56:11  msg: 9ee7a63ae3ff7b1841fb83dd55642631e831abee8480b258d83d27c4aaae794d
+2018/12/19 11:56:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[85 223 198 62] Payload:[]}
+2018/12/19 11:56:13 {Type:tx ID:25804fb1bd1e8e00b919c523fb447c97fe89afb86266b47d0d7c10305d9f8a14}
+2018/12/19 11:56:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[116 62 219 154] Payload:[]}
+2018/12/19 11:56:23 {Type:consensus ID:35e4b47138b744aaf9d8b84967e2a52a0c19b71827b1a233fae6c3c0dbe618a1}
+2018/12/19 11:56:24 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[140 216 252 27] Payload:[]}
+2018/12/19 11:56:24 {Type:consensus ID:fd1c568726ac26d5276b4fe3907ffbc6083605814d63ff3123f77385ea3a6908}
+2018/12/19 11:56:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[228 63 210 212] Payload:[]}
+2018/12/19 11:56:25 {Type:consensus ID:ae0d061f946299e9c989e2a95703b180e70ca0f530f09c34463aef57cfe606ad}
+2018/12/19 11:56:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[180 231 27 241] Payload:[]}
+2018/12/19 11:56:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[140 27 27 8] Payload:[]}
+2018/12/19 11:56:25 {Type:consensus ID:29e2fc19c5d3393ae97da84a075b640c145e97ef2dba4b7ee6c36db38aca4a23}
+2018/12/19 11:56:25 {Type:consensus ID:7ba64c2d807371fe531d57f67e0235b5f998b69a908b3a8facd605f64cc596cd}
+2018/12/19 11:56:26 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[215 44 209 157] Payload:[]}
+2018/12/19 11:56:26 {Type:consensus ID:85bcb9074593a6474732fc9e6332661b32b701cb28c4b68a571f5dc63d636aba}
+2018/12/19 11:56:28 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[198 118 146 176] Payload:[]}
+2018/12/19 11:56:28 {Type:block ID:ce31b43bea51d09c7097001ff6d9c38a49d8a4c456bcdf5bffce6b3f01199081}
+2018/12/19 11:56:28  msg: ce31b43bea51d09c7097001ff6d9c38a49d8a4c456bcdf5bffce6b3f01199081
+2018/12/19 11:56:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[155 150 213 40] Payload:[]}
+2018/12/19 11:56:30 {Type:tx ID:7c5c0e254b87f0e77674f1020f2dc18365fa96f3ebe7c7bf35f33bccdff27779}
+2018/12/19 11:56:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[246 13 185 199] Payload:[]}
+2018/12/19 11:56:31 {Type:tx ID:f4a323662eb61d4672f3a51c96645b98d969960429069f3d4366611ad4376f9e}
+2018/12/19 11:56:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[150 8 124 228] Payload:[]}
+2018/12/19 11:56:32 {Type:tx ID:27f6b09540778159183072a0c6f0ada685444def1c0eb0160c6623f0be02d8f9}
+2018/12/19 11:56:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[26 211 200 128] Payload:[]}
+2018/12/19 11:56:32 {Type:tx ID:23a2d69367ee8814d4b23940bb8d36cd77635260407f59f7347826c68a275402}
+2018/12/19 11:56:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[91 6 40 191] Payload:[]}
+2018/12/19 11:56:34 {Type:tx ID:a2feb6d51df5ab28c5522e4166397fbd40415f39e1230daa0c07e5859105a973}
+2018/12/19 11:56:35 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[223 230 218 104] Payload:[]}
+2018/12/19 11:56:35 {Type:tx ID:bc4c0282815312d7b0efef3a03081566e8b3ff602b992be536a00488a815dadc}
+2018/12/19 11:56:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[80 166 101 27] Payload:[]}
+2018/12/19 11:56:39 {Type:tx ID:30d92d143fe58470f313b6e8e121c3a0acdafabe275f572cc557a01e3de2c568}
+2018/12/19 11:56:44 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[208 214 3 234] Payload:[]}
+2018/12/19 11:56:44 {Type:tx ID:1448c749adb04fdd3622f34168a4ec1d276d4a7e5a575cb7b0d5a0d8cd63f73a}
+2018/12/19 11:56:44 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[216 102 22 177] Payload:[]}
+2018/12/19 11:56:44 {Type:consensus ID:b234d238c7108e62f65292885c98fe8a8dbd117691e0d4de1eb00b6236f9e7a8}
+2018/12/19 11:56:45 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[6 58 126 33] Payload:[]}
+2018/12/19 11:56:45 {Type:consensus ID:258fe6fca5c9420ad7f5e3fd2ccd0fc945eb3c8cb4937a9858d64f0e7c10b53e}
+2018/12/19 11:56:45 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[79 32 33 79] Payload:[]}
+2018/12/19 11:56:45 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[199 204 236 121] Payload:[]}
+2018/12/19 11:56:45 {Type:consensus ID:4b9d8a9034808386197963e203f3e674f907add4c444406cc765dc9526ee541d}
+2018/12/19 11:56:45 {Type:consensus ID:6fb5ecfb1593799f485e223f01f527cadbcdd864aa4e235e449ced3f750049bb}
+2018/12/19 11:56:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[131 58 53 228] Payload:[]}
+2018/12/19 11:56:46 {Type:consensus ID:a91de2ea2d71b467fb24dde3b30a32a7191ab734e6bdbb8bbec9fd2067ddccb2}
+2018/12/19 11:56:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[231 66 63 13] Payload:[]}
+2018/12/19 11:56:46 {Type:consensus ID:22240e0379cbd560ace3d7d89a52ace496029f781f3b8114abc7cb7fc1ee3ed3}
+2018/12/19 11:56:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[222 70 149 119] Payload:[]}
+2018/12/19 11:56:49 {Type:block ID:a8b95ce9253e15c9d90616b9ab0dcf3846c4545db6d7d7dfe724d379dfb7f939}
+2018/12/19 11:56:49  msg: a8b95ce9253e15c9d90616b9ab0dcf3846c4545db6d7d7dfe724d379dfb7f939
+2018/12/19 11:56:55 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[243 83 205 46] Payload:[]}
+2018/12/19 11:56:55 {Type:tx ID:1982ad248145ede4f74e19f302b97f15ea38198757fdbd089ceab515a9425f3e}
+2018/12/19 11:56:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[153 26 36 236] Payload:[]}
+2018/12/19 11:56:56 {Type:tx ID:793888b70730ebac405bd98acd30169e202190b738b20f1d7d9c5374db4c969f}
+2018/12/19 11:56:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[158 114 113 81] Payload:[]}
+2018/12/19 11:56:57 {Type:tx ID:ecb83b66b749b7f30fba92b0614cb535ec62299fa7824fd18872a7ee92bfbbc1}
+2018/12/19 11:57:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[120 121 158 160] Payload:[]}
+2018/12/19 11:57:01 {Type:consensus ID:2ed6cdf0e41bf82e9f36b1474bbc9bc64318f14b6b7be43b0c67158e0500ffb3}
+2018/12/19 11:57:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[18 172 67 198] Payload:[]}
+2018/12/19 11:57:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[119 55 145 179] Payload:[]}
+2018/12/19 11:57:01 {Type:consensus ID:44cf5dcca25021e96b7f99f71cf898e03861f91b609454993ada3ee01fc2f26d}
+2018/12/19 11:57:01 {Type:consensus ID:e8f99548380ce7ff465cae0118ed9d915138cebf47401c01dbd5d3ff1937b2a1}
+2018/12/19 11:57:02 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[238 210 227 231] Payload:[]}
+2018/12/19 11:57:02 {Type:consensus ID:aa19997f9d8c628f34edf5d7e40170e8b1ce3a41d304703e496858d47b1b777a}
+2018/12/19 11:57:03 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[91 182 165 133] Payload:[]}
+2018/12/19 11:57:03 {Type:consensus ID:210626c541aafcb75510670e2b566a9d3ba6a55739d309e8593afd17f449ae8f}
+2018/12/19 11:57:03 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[143 115 238 7] Payload:[]}
+2018/12/19 11:57:03 {Type:consensus ID:14577bae3b2f09352cfd4b23570a43d27715be14cc667b34f71537af85723c1c}
+2018/12/19 11:57:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[140 181 7 244] Payload:[]}
+2018/12/19 11:57:05 {Type:consensus ID:06e249c249487a3f4e6084e0f26a0855cbf1b3233d82c410d2965b0a8a00b4bd}
+2018/12/19 11:57:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[251 219 227 186] Payload:[]}
+2018/12/19 11:57:06 {Type:block ID:50113f1f1906ba1855ba56536aa376460f9c9fa9151668c6a7a43cffb062871f}
+2018/12/19 11:57:06  msg: 50113f1f1906ba1855ba56536aa376460f9c9fa9151668c6a7a43cffb062871f
+2018/12/19 11:57:11 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[129 135 60 241] Payload:[]}
+2018/12/19 11:57:11 {Type:tx ID:8e60b95ced1b12841b28038c10464b20e36bb3428fa64e0136229106e8ecca9c}
+2018/12/19 11:57:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[184 254 159 188] Payload:[]}
+2018/12/19 11:57:13 {Type:tx ID:380183efb6b0650c1443a65cb7fa28e2545935955107e42c50c83a7619acfb5d}
+2018/12/19 11:57:17 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[206 230 210 25] Payload:[]}
+2018/12/19 11:57:17 {Type:tx ID:2d9b8d860b49e7f408fd78a0e6a01154f29014325daa7e8bfa18316bf50b506b}
+2018/12/19 11:57:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[240 32 142 132] Payload:[]}
+2018/12/19 11:57:19 {Type:consensus ID:7a4c068e597064f7dbada4566e51f475e816198d0898cbdc75f6f66118803b64}
+2018/12/19 11:57:20 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[176 163 14 137] Payload:[]}
+2018/12/19 11:57:20 {Type:consensus ID:c57f791cd7a4d7d75bd42166a67928d01c78f2a73a471b4e9d8e50be0d9ee8db}
+2018/12/19 11:57:20 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[148 221 102 98] Payload:[]}
+2018/12/19 11:57:20 {Type:consensus ID:e897d882bc9d452faf58df72db4bc01f7a0e1033703ebb9057c60dfb26fec11f}
+2018/12/19 11:57:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[248 109 168 218] Payload:[]}
+2018/12/19 11:57:21 {Type:consensus ID:1e26fdd41ba64855879d58c8915f2844fd93ecc9814f02278f5c94df8c592769}
+2018/12/19 11:57:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[102 43 92 107] Payload:[]}
+2018/12/19 11:57:21 {Type:consensus ID:9e4392f0e5e49c1b9632fb1a9eba255cd4fda3698c978391e8323269150401de}
+2018/12/19 11:57:22 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[99 132 83 223] Payload:[]}
+2018/12/19 11:57:22 {Type:consensus ID:6af88721b3afec35d80b83625b7b70a71abf93f5cdf702073afa88f47294a0bc}
+2018/12/19 11:57:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[144 20 16 89] Payload:[]}
+2018/12/19 11:57:23 {Type:block ID:8adc4f72c6ff2fb4d44d1182f959e938939577ae0a03205d2e90f534d530684d}
+2018/12/19 11:57:23  msg: 8adc4f72c6ff2fb4d44d1182f959e938939577ae0a03205d2e90f534d530684d
+2018/12/19 11:57:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[253 86 173 33] Payload:[]}
+2018/12/19 11:57:37 {Type:consensus ID:6cb6de4dc95e7644ddd60a39dea6d2296455540b4814f0723562df7a993bf4a3}
+2018/12/19 11:57:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[47 171 123 160] Payload:[]}
+2018/12/19 11:57:38 {Type:consensus ID:3ef34a11a529025272a9955252009713688d7b2be30127dac092b8d6573e1384}
+2018/12/19 11:57:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[110 131 140 247] Payload:[]}
+2018/12/19 11:57:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[132 206 58 133] Payload:[]}
+2018/12/19 11:57:39 {Type:consensus ID:b17ec61622db270ddb4c33a4363a8ed5aac54b2eb2275b08847017befe02dca1}
+2018/12/19 11:57:39 {Type:consensus ID:723d6d9fec1680aacc05f7a3bd7763a468524d7a14055b55f703b8b77faf358c}
+2018/12/19 11:57:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[198 212 161 53] Payload:[]}
+2018/12/19 11:57:39 {Type:consensus ID:0f896b678d3b83489231c917dcbb9c877c7a966d050e0f6a1c29dad543562643}
+2018/12/19 11:57:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[177 86 244 37] Payload:[]}
+2018/12/19 11:57:40 {Type:consensus ID:2bbb50ae6912e0c6293d3dbb6cef5d092ce6d4bd2a3c647f27dc2f91c549d347}
+2018/12/19 11:57:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[228 44 201 25] Payload:[]}
+2018/12/19 11:57:40 {Type:consensus ID:4d3c1f5de3ab6b8cb084af5254789d656a735f711e1652e77ecb359415197fcd}
+2018/12/19 11:57:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[62 132 188 242] Payload:[]}
+2018/12/19 11:57:41 {Type:block ID:9b0c616a63b6b0a1e06eeade05388eb290aa3f137f9dfc6874ad0ea0bdc9e09b}
+2018/12/19 11:57:41  msg: 9b0c616a63b6b0a1e06eeade05388eb290aa3f137f9dfc6874ad0ea0bdc9e09b
+2018/12/19 11:57:45 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[114 0 165 44] Payload:[]}
+2018/12/19 11:57:45 {Type:tx ID:da22a56efa056afe92705bf6f5ca3ab2cd9df6622cfed4a2f0b5c21d28240d3b}
+2018/12/19 11:57:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[100 106 147 190] Payload:[]}
+2018/12/19 11:57:46 {Type:tx ID:5bb7e852907894a101b9bb9e62582ebd607ce39f4fca4ad50cd7105d5d5a1b61}
+2018/12/19 11:57:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[166 223 124 93] Payload:[]}
+2018/12/19 11:57:51 {Type:tx ID:d01d55995d9311fcc60d702beedce6b01a8bdef42f923d5c037c4a2c6321b6d0}
+2018/12/19 11:57:52 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[166 52 77 70] Payload:[]}
+2018/12/19 11:57:52 {Type:tx ID:28e5c3afd4a679b22a2b90e693dc9af4b131dbd60b368267f78ec86d0b2aca6b}
+2018/12/19 11:57:54 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[180 178 19 221] Payload:[]}
+2018/12/19 11:57:54 {Type:consensus ID:c69e46f2d91e38e4a85dafb731eaa928233751004e3832cb222b611e5a2c5f27}
+2018/12/19 11:57:55 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[30 106 69 238] Payload:[]}
+2018/12/19 11:57:55 {Type:consensus ID:26d9c836211813713971b6a9241dc5b5d57aff589984890900f4570b01e7c09f}
+2018/12/19 11:57:55 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[32 11 170 220] Payload:[]}
+2018/12/19 11:57:55 {Type:tx ID:45572094e4ce00bfc51e1bb980a0c49c49810a2323e07e2411bc1baa8d49a2a0}
+2018/12/19 11:57:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[77 138 84 147] Payload:[]}
+2018/12/19 11:57:56 {Type:consensus ID:adfeb19cfaef378c655d838a648729cd45929c868bf17add4c1d3da062e6ac71}
+2018/12/19 11:57:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[155 90 11 101] Payload:[]}
+2018/12/19 11:57:56 {Type:consensus ID:e96068eb302159107bd73eec0c23a2da6384d4785831a22f455ae75d1d2a4087}
+2018/12/19 11:57:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[132 109 207 223] Payload:[]}
+2018/12/19 11:57:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[198 243 47 78] Payload:[]}
+2018/12/19 11:57:57 {Type:consensus ID:73540b2cf835c82cdaea6ad04fba3020d5a473fa4b563c6e66672532e5e7a370}
+2018/12/19 11:57:57 {Type:consensus ID:955395b5e5d4dc53d8cc337d6113ca617ccd8159806965490a9864daf9d75292}
+2018/12/19 11:57:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[134 180 11 36] Payload:[]}
+2018/12/19 11:57:58 {Type:consensus ID:82e6d81bfd7521d7d8cde3fb0bd359aa25d9a12814c8258d4e1e812da87016e5}
+2018/12/19 11:57:59 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[8 221 87 249] Payload:[]}
+2018/12/19 11:57:59 {Type:block ID:667cb71caa41c73c8ca99aba6fec946e03f69bf8b797b8732490fbee8b962186}
+2018/12/19 11:57:59  msg: 667cb71caa41c73c8ca99aba6fec946e03f69bf8b797b8732490fbee8b962186
+2018/12/19 11:58:11 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[37 232 223 4] Payload:[]}
+2018/12/19 11:58:11 {Type:consensus ID:08ccde53c0a8e2e2f154d4179175b11b7cc3fac5f476e56fc0a318366cd0dc38}
+2018/12/19 11:58:12 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[140 239 216 129] Payload:[]}
+2018/12/19 11:58:12 {Type:consensus ID:aee339be2b55fc9775f05f2cf8322f91f3365862e80ea1f34317d5d51d8cfbe7}
+2018/12/19 11:58:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[212 144 113 17] Payload:[]}
+2018/12/19 11:58:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[140 63 229 242] Payload:[]}
+2018/12/19 11:58:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[62 206 63 73] Payload:[]}
+2018/12/19 11:58:13 {Type:consensus ID:6b2277166f5afd04be4e554510a53689f00a5a6824a01f6e2d966ff4c7965cf1}
+2018/12/19 11:58:13 {Type:consensus ID:b468556ce0c75bcc5eb18a6fc904577301245dcf69da036b6d56f74783837676}
+2018/12/19 11:58:13 {Type:consensus ID:9c00bf28f7349bef3f30d4af78d85dba27a29458ce0fbb8076f8226fc4db3f35}
+2018/12/19 11:58:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[63 168 44 69] Payload:[]}
+2018/12/19 11:58:13 {Type:consensus ID:6247aae8fa4bb780ff65d9979f6e18e23d4281eb81ec10f88525dd68db6c8352}
+2018/12/19 11:58:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[204 133 235 176] Payload:[]}
+2018/12/19 11:58:15 {Type:block ID:85555df5fb740730a15b035d95c81b9d4d27fa8874564031dd4022eefc2fc9a6}
+2018/12/19 11:58:15  msg: 85555df5fb740730a15b035d95c81b9d4d27fa8874564031dd4022eefc2fc9a6
+2018/12/19 11:58:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[174 27 218 88] Payload:[]}
+2018/12/19 11:58:25 {Type:tx ID:dc4cd74449d703726ad78e4c4e82d368cbed3d9b6728d83dbac5ce5b3d3a4cd6}
+2018/12/19 11:58:29 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[74 93 26 15] Payload:[]}
+2018/12/19 11:58:29 {Type:consensus ID:beddb1e82a667e6c966af416a223d7dc0f86350b92b1f3a75c9baed8eb063e48}
+2018/12/19 11:58:29 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[120 31 222 52] Payload:[]}
+2018/12/19 11:58:29 {Type:consensus ID:f04b2b15c495a03a96b5def9ed38c427d07aa7eb172b529d3ec57a26b6d9ac97}
+2018/12/19 11:58:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[93 171 211 169] Payload:[]}
+2018/12/19 11:58:30 {Type:consensus ID:70db5688c147538793279abf6146530418fb30bf3fe9b47e9b67e95c49eb2df1}
+2018/12/19 11:58:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[246 30 238 20] Payload:[]}
+2018/12/19 11:58:30 {Type:tx ID:90e29ea6356ed33f7bf42289a7b62745dfcad066a322f5d30ec1fcda960d1e98}
+2018/12/19 11:58:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[27 32 211 194] Payload:[]}
+2018/12/19 11:58:31 {Type:consensus ID:4eda33b44ddb5076c847bc96617fdb134955d5c068248242ab914da1ebbc547b}
+2018/12/19 11:58:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[229 208 110 29] Payload:[]}
+2018/12/19 11:58:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[51 220 43 204] Payload:[]}
+2018/12/19 11:58:31 {Type:consensus ID:fc720762a3a7bce421b70233b817c5b9828adfc27a0897932be5b559bbd87a8b}
+2018/12/19 11:58:31 {Type:consensus ID:0e86ad01be7cf136e642f62eac1d9ce055367f2dae94ed9a28baf5d3a79078ee}
+2018/12/19 11:58:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[9 180 11 147] Payload:[]}
+2018/12/19 11:58:32 {Type:block ID:12d1874f7efed09985568809b592ff850e0bfcf1a65545a9b809f366443979bb}
+2018/12/19 11:58:32  msg: 12d1874f7efed09985568809b592ff850e0bfcf1a65545a9b809f366443979bb
+2018/12/19 11:58:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[113 48 67 247] Payload:[]}
+2018/12/19 11:58:34 {Type:tx ID:f7c013b30ce71a3bfcd4e49091c9fe62f3610e682be7f72c9643948151db695b}
+2018/12/19 11:58:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[245 156 171 230] Payload:[]}
+2018/12/19 11:58:34 {Type:tx ID:5ced4acb1faad0f812cfd4ccc54f88d1c8937683f50942bf41260dc87b09c3d1}
+2018/12/19 11:58:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[233 107 7 186] Payload:[]}
+2018/12/19 11:58:38 {Type:tx ID:635abfaf3890733248108075444ff78223dfd2ae21cc29f4823c8a0d2faa8727}
+2018/12/19 11:58:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[197 131 217 35] Payload:[]}
+2018/12/19 11:58:39 {Type:tx ID:291bcc11f56acc1ac8f4da941d2bd4e0652d43781081f564ed18a09fae0d9e29}
+2018/12/19 11:58:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[184 92 98 157] Payload:[]}
+2018/12/19 11:58:42 {Type:tx ID:bd1af4f8cbc9f6c86a39787a78b52e85dc134b335102477ad09ec5ab4b62aff1}
+2018/12/19 11:58:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[181 129 62 106] Payload:[]}
+2018/12/19 11:58:43 {Type:tx ID:0e7f0c9fa11288ad1d7fe6da0ee91316a71647d0c1490ecceb3e12107007ca51}
+2018/12/19 11:58:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[124 237 17 212] Payload:[]}
+2018/12/19 11:58:46 {Type:tx ID:d38c9a4586aa2858df254fededd309bd28470059e1e3e56899e7f0aba5e74fb2}
+2018/12/19 11:58:47 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[31 158 102 198] Payload:[]}
+2018/12/19 11:58:47 {Type:tx ID:355e691336455a489d9b2bd4c0a5046ae977be285d86f7cd3c4c7288bd07acbc}
+2018/12/19 11:58:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[180 214 52 108] Payload:[]}
+2018/12/19 11:58:48 {Type:consensus ID:80f45326e5bf1c3e1a34a1821ee7a164739d0edaaa41b39cb911b62bf3e1720e}
+2018/12/19 11:58:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[130 80 128 210] Payload:[]}
+2018/12/19 11:58:48 {Type:consensus ID:2a77018123ad6214ea2cddaa4af0554f11b83de4badab26388ae618fdd145899}
+2018/12/19 11:58:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[61 92 193 116] Payload:[]}
+2018/12/19 11:58:49 {Type:consensus ID:081c3c0aedeb8bf7b32e4cd3cf4af729e934c1e392bee001b1b06de9fae45a2f}
+2018/12/19 11:58:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[255 195 224 243] Payload:[]}
+2018/12/19 11:58:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[211 88 56 153] Payload:[]}
+2018/12/19 11:58:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[44 99 146 136] Payload:[]}
+2018/12/19 11:58:49 {Type:consensus ID:7fedb25ddea31dd63cae7b5a52b45832832e9ec3e9e10b7eafc81c2fa152e120}
+2018/12/19 11:58:49 {Type:tx ID:8f3f9deaf3f55670afe2a79d246fec3d7cbf1d238c92b92475a8d60ca72048f4}
+2018/12/19 11:58:49 {Type:tx ID:da9f97d2115e18fd97c6a99f7935f42c5424d071e6bbe41a093d0a451314e49e}
+2018/12/19 11:58:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[179 186 179 16] Payload:[]}
+2018/12/19 11:58:50 {Type:consensus ID:b4228153dfb4b43a6b76bfa1c5cfeb3a8d3209c84e7c63d4bbc323aac6e6ee49}
+2018/12/19 11:58:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[182 231 209 210] Payload:[]}
+2018/12/19 11:58:50 {Type:consensus ID:732b05e0a87d210cf0b5c76ef70759141df64f643d6491aad1eeaf3ef6b7e293}
+2018/12/19 11:58:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[26 253 135 63] Payload:[]}
+2018/12/19 11:58:51 {Type:consensus ID:af8fb400afd09bf6e574553f70f72b7b9c82f4206650a4586bf63e01f1ab8546}
+2018/12/19 11:58:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[41 25 233 6] Payload:[]}
+2018/12/19 11:58:51 {Type:block ID:85aac7708632544f2e6acf14ea00cd33a14cedcc6d9d7da016305a2c81585472}
+2018/12/19 11:58:51  msg: 85aac7708632544f2e6acf14ea00cd33a14cedcc6d9d7da016305a2c81585472
+2018/12/19 11:59:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[114 43 143 41] Payload:[]}
+2018/12/19 11:59:04 {Type:consensus ID:45a8b4eba7101b6b6996b94621a4995a6c798e5e3039be0005602b10e1d5ed29}
+2018/12/19 11:59:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[134 153 247 154] Payload:[]}
+2018/12/19 11:59:04 {Type:consensus ID:142052d221d582cfa21a1871849158385010fb09a5f58916ef20bdb7a72f950d}
+2018/12/19 11:59:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[212 150 251 229] Payload:[]}
+2018/12/19 11:59:05 {Type:consensus ID:e1ebdc4d9052c4de2aae83fd17da29ab81efa7ab26423250ac0ecb5b052d1eff}
+2018/12/19 11:59:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[209 191 143 237] Payload:[]}
+2018/12/19 11:59:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[12 57 248 139] Payload:[]}
+2018/12/19 11:59:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[223 44 149 225] Payload:[]}
+2018/12/19 11:59:05 {Type:consensus ID:d2552c190e99c344f51114c817b7a433d75d15c5d9437da2f2d5d3ba53666fba}
+2018/12/19 11:59:05 {Type:tx ID:84752b1884a486e0eca293bb3adbe322560f1d02158611c4b63ccb29839f2a8a}
+2018/12/19 11:59:05 {Type:tx ID:0955c234fda72ed031be7e1a9e26e9cba2bd2d37cf3fcb6016c284b1fba7f9da}
+2018/12/19 11:59:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[0 223 22 170] Payload:[]}
+2018/12/19 11:59:06 {Type:tx ID:15242760970d0f3acf32ee85c5554c3c6b8d8811c08d638794ef63f2e9e1bb54}
+2018/12/19 11:59:07 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[75 143 236 230] Payload:[]}
+2018/12/19 11:59:07 {Type:consensus ID:c8a53d7368b69ae8026ba27f4187bc5008b485a3308b165c5f4e9432519cb0b9}
+2018/12/19 11:59:08 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[43 191 35 29] Payload:[]}
+2018/12/19 11:59:08 {Type:block ID:a82ef81b60e4dc72254242f1e50fcd351956747bf9261961aed6261dfc90b4b9}
+2018/12/19 11:59:08  msg: a82ef81b60e4dc72254242f1e50fcd351956747bf9261961aed6261dfc90b4b9
+2018/12/19 11:59:17 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[103 230 130 71] Payload:[]}
+2018/12/19 11:59:17 {Type:tx ID:7eb85a52c53eabac6314b5f202b49497e70f239f834bb2249add72e0cc762441}
+2018/12/19 11:59:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[90 217 157 59] Payload:[]}
+2018/12/19 11:59:18 {Type:tx ID:e819831598f02cd3c69110e38e583125ef5fad93f650704b77e2c4688c6a795e}
+2018/12/19 11:59:22 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[215 199 23 79] Payload:[]}
+2018/12/19 11:59:22 {Type:tx ID:24e9bb6c7eaa21932a17793d47afe9021f1ba60b124077730b0cfdb75fe0f7e2}
+2018/12/19 11:59:22 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[149 42 233 194] Payload:[]}
+2018/12/19 11:59:22 {Type:tx ID:50ea03d8abc72aca2d2fe2c917031070c68d358f6052f8002f5b1e05e622ec57}
+2018/12/19 11:59:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[26 219 176 7] Payload:[]}
+2018/12/19 11:59:23 {Type:consensus ID:faa8612cf5fd9f13179b0c41fcddcc84b0d059aee40c97f17f45df6c2aaa5421}
+2018/12/19 11:59:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[230 164 234 148] Payload:[]}
+2018/12/19 11:59:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[245 189 9 177] Payload:[]}
+2018/12/19 11:59:23 {Type:consensus ID:52df34b7fad4c669ea3212f33b7294d5cebaaa35911596d1c70a475a566495d8}
+2018/12/19 11:59:23 {Type:consensus ID:1cc6682efee46abe4289092884c5a949904d7e4f32e96bab3e1183430894b302}
+2018/12/19 11:59:24 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[107 77 111 174] Payload:[]}
+2018/12/19 11:59:24 {Type:consensus ID:f1d90e33cbef9d48c9516d6793156ca756be4baf544b438de13e7c19305e4028}
+2018/12/19 11:59:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[53 120 253 81] Payload:[]}
+2018/12/19 11:59:25 {Type:consensus ID:153530193f3bf4cc3a859637961be8c5f7a62ee43c42d91a2aba3963156095c7}
+2018/12/19 11:59:26 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[240 53 187 35] Payload:[]}
+2018/12/19 11:59:26 {Type:block ID:64d2cd8c2c8dba872cad2c6521ba8838d2d7cf33cfd339881c0ca9e3bc64f55c}
+2018/12/19 11:59:26  msg: 64d2cd8c2c8dba872cad2c6521ba8838d2d7cf33cfd339881c0ca9e3bc64f55c
+2018/12/19 11:59:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[224 205 27 31] Payload:[]}
+2018/12/19 11:59:30 {Type:tx ID:953bd363176e1b4191e7397c6dbc10e194bcdef975fd87846f8b02cfb90d9459}
+2018/12/19 11:59:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[156 90 199 7] Payload:[]}
+2018/12/19 11:59:30 {Type:tx ID:8b7c9d15e7ce1e12d105d65cdcec4340e699195b44ae073c31087fe2eda40637}
+2018/12/19 11:59:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[165 73 248 142] Payload:[]}
+2018/12/19 11:59:34 {Type:tx ID:68ddb0995ff8489581401b7e2d758737b86207427f8e5858a55306845ad972d8}
+2018/12/19 11:59:35 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[219 65 64 25] Payload:[]}
+2018/12/19 11:59:35 {Type:tx ID:7dcc81d61464f500fcbede65f7d9b9f7de80506b8055f93ff0723c7ec5528b60}
+2018/12/19 11:59:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[184 221 245 19] Payload:[]}
+2018/12/19 11:59:39 {Type:consensus ID:2521f9655e4dc826cf24aa65487b050a094c3f3e1a487200bf089322be04ce73}
+2018/12/19 11:59:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[4 4 221 235] Payload:[]}
+2018/12/19 11:59:39 {Type:consensus ID:5f40dc6a398eb445e7430cc0d8f00f371fb59870f5eb57c6940ee298cd300dca}
+2018/12/19 11:59:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[52 8 148 212] Payload:[]}
+2018/12/19 11:59:40 {Type:consensus ID:c3593891581d7b103bb3204462d9519ca7948124b63a44019b20de465c3fbfdc}
+2018/12/19 11:59:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[252 87 65 102] Payload:[]}
+2018/12/19 11:59:40 {Type:consensus ID:e6421e193fa96e40bbb7eac3e0178972b249e251278b92a35652bddefbb9b7a9}
+2018/12/19 11:59:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[74 149 254 159] Payload:[]}
+2018/12/19 11:59:42 {Type:consensus ID:00e62bb5889012823b8dbe7f1e8493a2f05f86c16434f120ffc62738d7fa9e4e}
+2018/12/19 11:59:42 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[211 109 240 4] Payload:[]}
+2018/12/19 11:59:42 {Type:consensus ID:e275678ab570f1487578fb7ffbc609e2294b7386435f8660dbe7823053b400b1}
+2018/12/19 11:59:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[22 138 91 229] Payload:[]}
+2018/12/19 11:59:43 {Type:tx ID:30c10bfe6b34efcb7bf1764c8be56eeac546f4673f3e48eda55fa0bf31655fae}
+2018/12/19 11:59:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[38 179 254 66] Payload:[]}
+2018/12/19 11:59:43 {Type:block ID:ec890d98dbbc01ffa187391a09fa0c5c1cb71215dd99f85cd56bfcea684c40f6}
+2018/12/19 11:59:43  msg: ec890d98dbbc01ffa187391a09fa0c5c1cb71215dd99f85cd56bfcea684c40f6
+2018/12/19 11:59:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[31 71 171 187] Payload:[]}
+2018/12/19 11:59:46 {Type:tx ID:4e0352893a653f795a671f705b3633b050fb5101e8e62efd6c837a9b202c6685}
+2018/12/19 11:59:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[158 51 57 221] Payload:[]}
+2018/12/19 11:59:46 {Type:tx ID:d6bb73fa7d88609b69b4bed035de187ece09ccab762ec2cb06753e7fffa9896e}
+2018/12/19 11:59:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[103 172 17 38] Payload:[]}
+2018/12/19 11:59:48 {Type:tx ID:a071630c1a7d6b3ca87007ba4ef6f11d365dbb6f47174af33833b5b55c7a8a6b}
+2018/12/19 11:59:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[16 136 215 38] Payload:[]}
+2018/12/19 11:59:51 {Type:tx ID:a834105e4cea519fb91569c43173909c92b1767640f3c095b4f757895ecc789d}
+2018/12/19 11:59:53 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[93 181 25 42] Payload:[]}
+2018/12/19 11:59:53 {Type:tx ID:1e0387de1659542ed430847ce6986ed22e7b6e53a290c5949d5f4a23902a8ece}
+2018/12/19 11:59:54 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[197 31 148 163] Payload:[]}
+2018/12/19 11:59:54 {Type:tx ID:4579630a703043763cdb1342ee8ae25008023f408da95f534fad675fa49f2de1}
+2018/12/19 11:59:56 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[228 255 92 125] Payload:[]}
+2018/12/19 11:59:56 {Type:tx ID:a86f149a025761af23d7871a396cab453257c8772223a364a5ecf218be9435a3}
+2018/12/19 11:59:57 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[206 202 0 61] Payload:[]}
+2018/12/19 11:59:57 {Type:consensus ID:e4258c291ada0a3f27d9de96de2ffda04fa1e42e9ce3b0618f7e0a481669a508}
+2018/12/19 11:59:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[107 39 218 173] Payload:[]}
+2018/12/19 11:59:58 {Type:consensus ID:bc13e656ddd9f3c6ad2358e22053dfe932bfbbb7ae6164b4397d2cddf9ba835f}
+2018/12/19 11:59:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[25 54 86 239] Payload:[]}
+2018/12/19 11:59:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[162 34 205 112] Payload:[]}
+2018/12/19 11:59:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[241 69 193 156] Payload:[]}
+2018/12/19 11:59:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[241 17 173 19] Payload:[]}
+2018/12/19 11:59:58 {Type:consensus ID:c1aa97f1ca4222a12912af5a9c4abf5203a3bf285e2f1c8dea420e856e57ea8e}
+2018/12/19 11:59:58 {Type:consensus ID:b2579f5d1c54c870c253acc381eb4001030e4ad225a6ddcad7f8008996bab4e8}
+2018/12/19 11:59:58 {Type:tx ID:d0ae3ed79fba4bac28b2adaed4a4191c831b3fb45430bdde5dcee1a23e00317d}
+2018/12/19 11:59:58 {Type:tx ID:cf146e9df146a5a2c658be31509dcc10cc439dd4374fd4b35ffa675dcba81a83}
+2018/12/19 12:00:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[122 0 75 148] Payload:[]}
+2018/12/19 12:00:00 {Type:consensus ID:139b5fbbd91a65f7cadaf7111ef1b98adbabc81ac8bc8b1cfeae67117efcdab4}
+2018/12/19 12:00:01 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[143 101 149 11] Payload:[]}
+2018/12/19 12:00:01 {Type:consensus ID:9d9d42305b1469458e49effbcadcb1b7b0947f0f78fae091a04f50afcb3e0d1d}
+2018/12/19 12:00:03 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[178 3 234 121] Payload:[]}
+2018/12/19 12:00:03 {Type:block ID:4b294d42dac0a757278bee1889504e69d2b59c3e31bad0a3ee3eb9c1080ee62a}
+2018/12/19 12:00:03  msg: 4b294d42dac0a757278bee1889504e69d2b59c3e31bad0a3ee3eb9c1080ee62a
+2018/12/19 12:00:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[141 131 73 178] Payload:[]}
+2018/12/19 12:00:05 {Type:tx ID:00a6f26787a9237d4b6655ff0bc0c1040858843be4ec666064df5c976db52541}
+2018/12/19 12:00:07 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[249 115 56 57] Payload:[]}
+2018/12/19 12:00:07 {Type:tx ID:5f55ada059982269392a3bdf3a024e8e9a70c2f6ced7b6ecdeaae126cd5d90cf}
+2018/12/19 12:00:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[239 71 184 20] Payload:[]}
+2018/12/19 12:00:13 {Type:tx ID:8ff14bbd2be3385424e2b1f2f6b80541348591e4a7824f10f76fce58fcec7151}
+2018/12/19 12:00:16 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[97 207 22 119] Payload:[]}
+2018/12/19 12:00:16 {Type:consensus ID:7ea3300640835e117848ff2eb7627245f19e7abd2fed6c797cc1e89c4b8ea884}
+2018/12/19 12:00:17 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[222 201 152 226] Payload:[]}
+2018/12/19 12:00:17 {Type:consensus ID:77fb61389cbef87fc8e8638cc121a2675fee025d56cf852c7ac5462ec53088fd}
+2018/12/19 12:00:17 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[215 144 76 116] Payload:[]}
+2018/12/19 12:00:17 {Type:consensus ID:dbc8bb137cf4395f4615951300505f7bfba66c8efa626b0b5de0860936093314}
+2018/12/19 12:00:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[126 41 3 39] Payload:[]}
+2018/12/19 12:00:18 {Type:consensus ID:afe086c54b294745bc535824ce5a6271de5433e6f50b03ae424974d1f38b3178}
+2018/12/19 12:00:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[91 92 97 203] Payload:[]}
+2018/12/19 12:00:18 {Type:consensus ID:e2bbbad69756e2e6be636b6e7135764470d0d3d87755d635a0ad26c1c8289164}
+2018/12/19 12:00:19 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[5 237 0 222] Payload:[]}
+2018/12/19 12:00:19 {Type:consensus ID:83a3523aba0c34975d19532f480315fd0724fa07dc47d7f5cb9abd5070657114}
+2018/12/19 12:00:20 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[30 236 82 89] Payload:[]}
+2018/12/19 12:00:20 {Type:block ID:da498964859a3f94e6ca59bf4e2e70684068b4b54f2f444718912719d723a2f7}
+2018/12/19 12:00:20  msg: da498964859a3f94e6ca59bf4e2e70684068b4b54f2f444718912719d723a2f7
+2018/12/19 12:00:24 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[209 36 19 96] Payload:[]}
+2018/12/19 12:00:24 {Type:tx ID:3cdd9788ffb8fa84786afd689e606e16bfd476fda0180adb7fe8b03b173ec553}
+2018/12/19 12:00:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[237 35 210 186] Payload:[]}
+2018/12/19 12:00:25 {Type:tx ID:8e91d37cfc56be5d3bca6f7143650b91210be6d2896a67d6b643ab79e78b1be5}
+2018/12/19 12:00:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[89 191 12 124] Payload:[]}
+2018/12/19 12:00:30 {Type:tx ID:08066429dbd320cf2b7cf5c0243b9000d442d1e2402800d71ca40a3ee778f12e}
+2018/12/19 12:00:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[79 251 181 196] Payload:[]}
+2018/12/19 12:00:32 {Type:tx ID:c4aa7aa5e19b786c0975d3b741898d4455338d38dcd30141e903d8ce9a70d234}
+2018/12/19 12:00:33 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[231 22 37 241] Payload:[]}
+2018/12/19 12:00:33 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[94 45 5 31] Payload:[]}
+2018/12/19 12:00:33 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[44 206 148 97] Payload:[]}
+2018/12/19 12:00:33 {Type:consensus ID:405f06de71e0779d0cae5cd5e9572811c78c165d33935ffc6bb150a721e3e213}
+2018/12/19 12:00:33 {Type:tx ID:12b6522159d7029b7bbc2adccd4598ca4ae75bffe3b7f4c4dfc9a490521f798c}
+2018/12/19 12:00:33 {Type:consensus ID:fe8357180d14271ce90e3499e1d9f6ce0d43c91d7e90a40c5ce78b936df4a3af}
+2018/12/19 12:00:33 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[236 153 99 186] Payload:[]}
+2018/12/19 12:00:33 {Type:consensus ID:97fa937257303b169292b4bf2310e0355ddff4a6ab75da97edac165d1eaa9210}
+2018/12/19 12:00:34 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[87 158 236 93] Payload:[]}
+2018/12/19 12:00:34 {Type:consensus ID:609d2aa780351cf10e7f93c3fd5641758245e7a47f266b62923e27a0fedfebef}
+2018/12/19 12:00:35 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[137 27 87 8] Payload:[]}
+2018/12/19 12:00:35 {Type:consensus ID:0bf907c79111eb6082b961816c8b8f9d23504d35e598d85bd744af37b24fe1c8}
+2018/12/19 12:00:35 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[1 235 126 16] Payload:[]}
+2018/12/19 12:00:35 {Type:consensus ID:59806aa063dbc8748614e53a482c21ec07ab40a265b926e1abcce101f2efb4f5}
+2018/12/19 12:00:36 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[242 81 233 195] Payload:[]}
+2018/12/19 12:00:36 {Type:block ID:a1c97cd39ca43de9b9304b083a20edca64a8e3a29ec3e8427ff1bf45c7aaa841}
+2018/12/19 12:00:36  msg: a1c97cd39ca43de9b9304b083a20edca64a8e3a29ec3e8427ff1bf45c7aaa841
+2018/12/19 12:00:43 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[206 24 159 40] Payload:[]}
+2018/12/19 12:00:43 {Type:tx ID:8b9f2806093b46b47acab799c165fd29363035a0127c2214479915ac3e7e82ad}
+2018/12/19 12:00:49 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[162 44 217 245] Payload:[]}
+2018/12/19 12:00:49 {Type:tx ID:80b97cb4b0d58b1eaa4db524f8cd422e1ae19594e121253cc2910089076fb3da}
+2018/12/19 12:00:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[15 146 85 21] Payload:[]}
+2018/12/19 12:00:50 {Type:tx ID:90f5323dcb048776f2ef46548b18b98645cbc2877c26684bfc0ba5bf6e771a24}
+2018/12/19 12:00:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[122 44 137 201] Payload:[]}
+2018/12/19 12:00:50 {Type:consensus ID:b69258d3c50c7cf241bdd8712aece0ee626916e5414094173eb5a8cb05bcfe56}
+2018/12/19 12:00:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[83 76 5 100] Payload:[]}
+2018/12/19 12:00:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[20 15 117 201] Payload:[]}
+2018/12/19 12:00:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[149 115 249 2] Payload:[]}
+2018/12/19 12:00:51 {Type:consensus ID:f0b86e76d667d5117d48daf27312672e7ca70ad98529b126dd713d1fef123a18}
+2018/12/19 12:00:51 {Type:consensus ID:60d7d0e7010d82ed6567945af302c9be4595b5fbe86d48e6473175617a3844d2}
+2018/12/19 12:00:51 {Type:consensus ID:d50b21b44da7b215a46c56d955008426e4f734eb3e98eb61ad2829de2863f9d0}
+2018/12/19 12:00:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[103 180 108 14] Payload:[]}
+2018/12/19 12:00:51 {Type:tx ID:379d659fc65e40704cfd2e70dc672295732a525fa539bbafa33515d36d53cb96}
+2018/12/19 12:00:52 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[197 162 251 83] Payload:[]}
+2018/12/19 12:00:52 {Type:consensus ID:1e109dd39dfd067cfebe728e69baf28cb4c28a80bb5850503d68bb7da1074e40}
+2018/12/19 12:00:53 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[90 28 107 104] Payload:[]}
+2018/12/19 12:00:53 {Type:consensus ID:9cb3286d91aec38f5ce1e4f23815b01952c3f51b8718ca48466fb3f1407f3413}
+2018/12/19 12:00:55 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[47 200 113 152] Payload:[]}
+2018/12/19 12:00:55 {Type:block ID:0cb6c0d6355e3ba8b5f46073d3057f1b94fcd9effbd8fb61b0fc44b9bd7e7b15}
+2018/12/19 12:00:55  msg: 0cb6c0d6355e3ba8b5f46073d3057f1b94fcd9effbd8fb61b0fc44b9bd7e7b15
+2018/12/19 12:00:58 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[123 157 1 228] Payload:[]}
+2018/12/19 12:00:58 {Type:tx ID:71d434fd23a8832b4e78fbba3719913a8eff37b05ecf3031500d0c16d124f6cd}
+2018/12/19 12:01:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[160 149 135 225] Payload:[]}
+2018/12/19 12:01:04 {Type:tx ID:b839d57e29ebbae2be3dd30aa31d9bd3bc9854bf121f17b996ce9dfcb3b8d998}
+2018/12/19 12:01:08 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[249 18 4 16] Payload:[]}
+2018/12/19 12:01:08 {Type:tx ID:4a257125d0be434343cceb437e04e56a535529bf9e6f78263fde5ce55978dbf4}
+2018/12/19 12:01:09 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[85 137 0 101] Payload:[]}
+2018/12/19 12:01:09 {Type:consensus ID:a53a401149f58d696c68c1aef87bc88f3480fc7fb228532c631fbf6c9b280d25}
+2018/12/19 12:01:09 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[128 55 126 121] Payload:[]}
+2018/12/19 12:01:09 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[28 238 169 24] Payload:[]}
+2018/12/19 12:01:09 {Type:consensus ID:00a12e62107558553dac63bee0b508f31eb620c57ae1dda42cb514f1b6ee815f}
+2018/12/19 12:01:09 {Type:consensus ID:a3bc992c6570bc5c6808692492f2f95f961fd9e8ed37d38e13abdf8d438d9c94}
+2018/12/19 12:01:10 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[46 180 135 147] Payload:[]}
+2018/12/19 12:01:10 {Type:consensus ID:401ae08c12558342ecbe99d6feea26149e708e211b9abe1b72e49ff209432e13}
+2018/12/19 12:01:10 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[187 176 40 0] Payload:[]}
+2018/12/19 12:01:10 {Type:consensus ID:7a24ce267f1ced3f87e2cb43057631363214434bb98e9a4e8cbff8b975c6b988}
+2018/12/19 12:01:12 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[207 99 112 251] Payload:[]}
+2018/12/19 12:01:12 {Type:block ID:84979ed5b35fa8fcf5dda8568b3bd49d2c6450af5caafc89eaad0c43cfca8530}
+2018/12/19 12:01:12  msg: 84979ed5b35fa8fcf5dda8568b3bd49d2c6450af5caafc89eaad0c43cfca8530
+2018/12/19 12:01:15 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[179 154 133 83] Payload:[]}
+2018/12/19 12:01:15 {Type:tx ID:7149c5a5f0d80bd212a9a1822266bf7d0771fadee31729d62291f8b9eeed3662}
+2018/12/19 12:01:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[250 47 131 35] Payload:[]}
+2018/12/19 12:01:30 {Type:tx ID:75e60042f2ccd3589dd534fed87847af6d406e06c504f444cd181a6ae889ca8d}
+2018/12/19 12:01:30 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[42 191 158 16] Payload:[]}
+2018/12/19 12:01:30 {Type:consensus ID:66f9f78a0c3e6482d542fcc7e6ee68947070d8b27355e99ed0574955c559c2dd}
+2018/12/19 12:01:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[136 211 248 6] Payload:[]}
+2018/12/19 12:01:31 {Type:consensus ID:dc9a731857640c306c9a68193bb422f964f955f89623d64094586da3d7031074}
+2018/12/19 12:01:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[106 159 83 162] Payload:[]}
+2018/12/19 12:01:31 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[105 234 190 240] Payload:[]}
+2018/12/19 12:01:31 {Type:consensus ID:eafb19582b55d7ad9f23cd4c0b448f4c16e9c68a366bbadd9e0948acf332d562}
+2018/12/19 12:01:31 {Type:consensus ID:dbe858359fba7b484ad761504765026b9af53fb185f609f06122832e2e9ec48a}
+2018/12/19 12:01:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[157 149 166 77] Payload:[]}
+2018/12/19 12:01:32 {Type:consensus ID:d1254621126a0b02f088cbd3b0215b49fa40b79aa16d2b5d0981d613c0c0e6f4}
+2018/12/19 12:01:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[6 217 102 85] Payload:[]}
+2018/12/19 12:01:32 {Type:consensus ID:e8c5d9047784566223f292a7107550e4753f98e664d8598a457d8c79c90b40b1}
+2018/12/19 12:01:33 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[99 139 243 30] Payload:[]}
+2018/12/19 12:01:33 {Type:block ID:5105fc64a3de4a1f4570e3990e7e3e5a73c6609a2c71029f8cdd7842a5d0bade}
+2018/12/19 12:01:33  msg: 5105fc64a3de4a1f4570e3990e7e3e5a73c6609a2c71029f8cdd7842a5d0bade
+2018/12/19 12:01:35 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[180 115 130 173] Payload:[]}
+2018/12/19 12:01:35 {Type:tx ID:d60f80e1c00f2cacfc5af0d29d48a4ed11d29fbcf31bb41ca133144f30d86f4e}
+2018/12/19 12:01:37 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[235 191 36 164] Payload:[]}
+2018/12/19 12:01:37 {Type:tx ID:8ed697fb2a9e8372b62fa9fb86c3ac3802f4c048fd7f290c1093df67e48e7161}
+2018/12/19 12:01:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[128 71 133 113] Payload:[]}
+2018/12/19 12:01:46 {Type:consensus ID:d588381a7c63915e19ab66d177862a0ceb4d8d9d2eb319b9e5e28a1e7d888458}
+2018/12/19 12:01:47 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[167 59 178 224] Payload:[]}
+2018/12/19 12:01:47 {Type:consensus ID:e20966ac6353b4b8bbfd10535da98a62e4bfd856b37668dfdf5202e5a2bf9440}
+2018/12/19 12:01:47 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[127 3 69 173] Payload:[]}
+2018/12/19 12:01:47 {Type:consensus ID:4f7423ac0aa4378cac91b8c595ed38d3403f112b47ddc37f2615e379bee0c3da}
+2018/12/19 12:01:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[92 233 232 233] Payload:[]}
+2018/12/19 12:01:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[44 28 83 40] Payload:[]}
+2018/12/19 12:01:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[247 41 95 37] Payload:[]}
+2018/12/19 12:01:48 {Type:consensus ID:dc90b784e80827a38d19cd832f25607c4eac59d9cbfba7f9ef901305652072c1}
+2018/12/19 12:01:48 {Type:consensus ID:ea6566ae779466839453742eccefc83c724d1a74e51784dd2d2114dcf2c8b363}
+2018/12/19 12:01:48 {Type:consensus ID:a3bb9831161c9025056824eb6bdda99c8b5006214bbf2f04277ea4b4edb5c5a5}
+2018/12/19 12:01:48 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[222 229 51 109] Payload:[]}
+2018/12/19 12:01:48 {Type:tx ID:345c9b0920f7c11c6bcc24aca1f8f18d5e16ff45842d764aaf488747d3d58dcc}
+2018/12/19 12:01:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[233 121 6 216] Payload:[]}
+2018/12/19 12:01:50 {Type:block ID:8ccdc3f14aecdb3c6262b7337bc897e20557445ad4f189fad0026856b107a594}
+2018/12/19 12:01:50  msg: 8ccdc3f14aecdb3c6262b7337bc897e20557445ad4f189fad0026856b107a594
+2018/12/19 12:01:52 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[234 90 40 180] Payload:[]}
+2018/12/19 12:01:52 {Type:tx ID:ae12338482ca3cd6d601eb59c4b4ba40c8b442bb4fe7989f2f8b048497000a32}
+2018/12/19 12:01:54 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[187 160 219 243] Payload:[]}
+2018/12/19 12:01:54 {Type:tx ID:b0edaaa64b305918351d0afec648e4cfd9c702411f840b505f3b65ed668e40f6}
+2018/12/19 12:01:55 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[67 205 127 231] Payload:[]}
+2018/12/19 12:01:55 {Type:tx ID:61ee34df38237a2263adc42a5765c54337968b86d316f46014831f767b5658cf}
+2018/12/19 12:01:55 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[144 44 13 100] Payload:[]}
+2018/12/19 12:01:55 {Type:tx ID:1fa7f733c73326d406a03947194fbb52ecf60d523ae539bf6a64ad01b6306b86}
+2018/12/19 12:01:59 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[36 194 143 245] Payload:[]}
+2018/12/19 12:01:59 {Type:tx ID:4bd386ad332bc83ab58fb0e78c6e0e67592d35e7e969c52703030bd4b3c1cc76}
+2018/12/19 12:02:00 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[90 44 99 41] Payload:[]}
+2018/12/19 12:02:00 {Type:tx ID:8e15160072f2af9ae50fe4e289879478cce703f3d071487b905a67d22a06c79f}
+2018/12/19 12:02:02 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[36 229 131 111] Payload:[]}
+2018/12/19 12:02:02 {Type:tx ID:7a2bf2536a4342ae32d0141c95f814b9c1324afdecce432b55a4d81bb67fa035}
+2018/12/19 12:02:03 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[74 98 9 243] Payload:[]}
+2018/12/19 12:02:03 {Type:tx ID:3e3cd5bc3d07ab57bf56b99bb3c392a0f3d77a5f3a0787b4ace1eb4c607996b8}
+2018/12/19 12:02:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[65 185 183 191] Payload:[]}
+2018/12/19 12:02:04 {Type:consensus ID:a0832bfb3cdbedf138efc7633c57aafab780209ce4960bf308553bc5fb682082}
+2018/12/19 12:02:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[197 238 213 241] Payload:[]}
+2018/12/19 12:02:04 {Type:consensus ID:714acbae5c9e28e8724297576c4ed5e7acb08e937053969913d68a544ce148de}
+2018/12/19 12:02:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[237 228 38 52] Payload:[]}
+2018/12/19 12:02:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[31 109 3 137] Payload:[]}
+2018/12/19 12:02:05 {Type:consensus ID:2e7603cae860d727485dec4f55ca3f237f9f3070f5a67cdd8f09d03141222b46}
+2018/12/19 12:02:05 {Type:consensus ID:d0252e22fbf09cde31212c3d95bf18d531ea20e223ee6e9d58369b8345772c8b}
+2018/12/19 12:02:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[171 138 105 16] Payload:[]}
+2018/12/19 12:02:05 {Type:consensus ID:ac21a1719aadb7c75d01c1aa047710b1b6cca8870ea5e15b8722bcfdc5a596ce}
+2018/12/19 12:02:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[75 51 167 35] Payload:[]}
+2018/12/19 12:02:06 {Type:consensus ID:66c3cfde54eb4e73e0ec63478a75717e6bda154d83d37df62e8e0ad4a96c089f}
+2018/12/19 12:02:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[211 112 244 232] Payload:[]}
+2018/12/19 12:02:06 {Type:tx ID:1092e560b738f604930606f5a992ba9ebebfca05c37f87c6590d4d23990d8df9}
+2018/12/19 12:02:07 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[185 111 115 45] Payload:[]}
+2018/12/19 12:02:07 {Type:consensus ID:ca28f02eae575141a8bd7106197d6d418a04e51ded106a53d8d3209f1d52ce82}
+2018/12/19 12:02:07 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[113 200 199 158] Payload:[]}
+2018/12/19 12:02:07 {Type:block ID:425a6b79d8fcc7617308d3aaa18714758d9f7b1d375b7a1c0b70d23ec5b914d8}
+2018/12/19 12:02:07  msg: 425a6b79d8fcc7617308d3aaa18714758d9f7b1d375b7a1c0b70d23ec5b914d8
+2018/12/19 12:02:18 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[193 33 27 204] Payload:[]}
+2018/12/19 12:02:18 {Type:tx ID:31a48bffa5a81bf85aaf64d630f8727f96fd5159cdb02f2592d198c54e683b06}
+2018/12/19 12:02:20 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[83 187 158 164] Payload:[]}
+2018/12/19 12:02:20 {Type:consensus ID:de1a6e4bf82b22d7fa0010387406e8efbc97ae9726985413e35f266089d33234}
+2018/12/19 12:02:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[196 159 179 56] Payload:[]}
+2018/12/19 12:02:21 {Type:consensus ID:ffc6b050479a03944bee3ce4ab5ab9776c18fe5f3b44ad3196aab5d9ab378258}
+2018/12/19 12:02:22 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[196 181 0 18] Payload:[]}
+2018/12/19 12:02:22 {Type:consensus ID:466c40e2ef219251c6d272dfbb8cb04ac288b3055b990c6ec256080464f39fca}
+2018/12/19 12:02:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[181 85 69 28] Payload:[]}
+2018/12/19 12:02:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[158 23 185 12] Payload:[]}
+2018/12/19 12:02:23 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[205 200 160 235] Payload:[]}
+2018/12/19 12:02:23 {Type:tx ID:4e1de0264a27dcd1704fba024067bd898674a1a5003c436d8d321397de85fff5}
+2018/12/19 12:02:23 {Type:consensus ID:dfc4326c01a6a554469b858fcbaad38bf9dca0486e307bea98f19f488dff5420}
+2018/12/19 12:02:23 {Type:consensus ID:4e263a0cd034523658a1c4371cba2e633335a4fd606664ac727f6a34ecca593c}
+2018/12/19 12:02:24 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[144 20 198 30] Payload:[]}
+2018/12/19 12:02:24 {Type:consensus ID:3e50d962c3d83bc1d85ab7f7ca034e9e39e97f059b13050f724a43f87f6094ac}
+2018/12/19 12:02:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[211 21 50 125] Payload:[]}
+2018/12/19 12:02:25 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[170 198 54 137] Payload:[]}
+2018/12/19 12:02:25 {Type:block ID:ae1365068dce6e323fc846e9536a159d4c3ab25b7178cec36d9d3ce764b005f7}
+2018/12/19 12:02:25  msg: ae1365068dce6e323fc846e9536a159d4c3ab25b7178cec36d9d3ce764b005f7
+2018/12/19 12:02:25 {Type:tx ID:6da73f9954774c4aafe1085c53399790cb48009f28e2c75f903a623368d94446}
+2018/12/19 12:02:27 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[214 168 198 194] Payload:[]}
+2018/12/19 12:02:27 {Type:tx ID:6ceca2a88ab280b7fca3a9fc30d780bdcb9b91a824d45b0a59b5ba6384f71c88}
+2018/12/19 12:02:29 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[219 11 143 200] Payload:[]}
+2018/12/19 12:02:29 {Type:tx ID:3fe1e84ff7c5daa2a70619b2804d73518a67282fbf7beb427900a17193bce618}
+2018/12/19 12:02:32 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[196 174 224 176] Payload:[]}
+2018/12/19 12:02:32 {Type:tx ID:035ec32f0489520171f5fa367d7d83641d6b6ccf391d02e39cb28b2b59eaf55c}
+2018/12/19 12:02:35 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[183 31 11 40] Payload:[]}
+2018/12/19 12:02:35 {Type:tx ID:54ddb3e4a09a4b92580f3489d3e19e55c4d2a8d6978600a3390aab2f56b5f7eb}
+2018/12/19 12:02:35 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[118 6 48 47] Payload:[]}
+2018/12/19 12:02:35 {Type:tx ID:3de73a41fa45475d7e00bfa248695baab8f5a5d235e4a71726450fab1ca67f3a}
+2018/12/19 12:02:37 msg = &{Magic:7630401 Command:inv Length:66 Checksum:[183 243 72 56] Payload:[]}
+2018/12/19 12:02:37 {Type:tx ID:54b1e3404423664240462b1822e039a2761a5df9f01ec7ec9d65a52b7a4b3e49}
+2018/12/19 12:02:37 {Type:tx ID:d367ba80f9574741a254c34bff4644415f9590a94934c5d91edee74dcb4b72be}
+2018/12/19 12:02:38 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[28 193 184 161] Payload:[]}
+2018/12/19 12:02:38 {Type:consensus ID:48c16229ed5ad1d30f6f901220dc4524c4fed0d394aa4042a0fbf0b7626c2f6b}
+2018/12/19 12:02:39 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[166 71 34 38] Payload:[]}
+2018/12/19 12:02:39 {Type:consensus ID:0f7361869f2e25972fa839839a6a24c38be8917fe0d15b6dbd9d8a425bc9c433}
+2018/12/19 12:02:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[194 80 177 211] Payload:[]}
+2018/12/19 12:02:40 {Type:consensus ID:bcd32ce837334822f743451737717ad4cf82495652f6c9f3b6e47b38c1824fe4}
+2018/12/19 12:02:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[162 116 75 25] Payload:[]}
+2018/12/19 12:02:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[98 68 3 54] Payload:[]}
+2018/12/19 12:02:40 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[144 28 122 35] Payload:[]}
+2018/12/19 12:02:40 {Type:consensus ID:b24c2bb57b56afe13c7321475c7b867befdf9b17aff0231ec47f0517455e519d}
+2018/12/19 12:02:40 {Type:consensus ID:a5619250dac3e2bd2c4767beab3a3e344e5e88cd8d06c70675d5073e2a46900e}
+2018/12/19 12:02:40 {Type:consensus ID:512049e587d31f8818d9bbdf321c6363a4f981be74ac7dc7a07181eb69175b70}
+2018/12/19 12:02:41 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[177 177 183 220] Payload:[]}
+2018/12/19 12:02:41 {Type:block ID:ef4e85870ba76ecfbd36c2a2773bae4c2dce9ad745d9a29f3d88f62d49a83104}
+2018/12/19 12:02:41  msg: ef4e85870ba76ecfbd36c2a2773bae4c2dce9ad745d9a29f3d88f62d49a83104
+2018/12/19 12:02:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[204 222 91 66] Payload:[]}
+2018/12/19 12:02:46 {Type:tx ID:75c6a661314c97d70538bbf6e8827ee33c5d7cfb4b9094c1a8b5e0b062e9e3ec}
+2018/12/19 12:02:46 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[199 252 129 188] Payload:[]}
+2018/12/19 12:02:46 {Type:tx ID:a848cac15f6eae1c356576a728be73217d1eeceee87cab554fc81c694285c4ff}
+2018/12/19 12:02:47 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[84 78 40 70] Payload:[]}
+2018/12/19 12:02:47 {Type:tx ID:e9338db1d9bc14cc499395ff75ab88a6fb7a0fca317f94c8440e4ed01f20ed5c}
+2018/12/19 12:02:50 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[202 80 1 217] Payload:[]}
+2018/12/19 12:02:50 {Type:tx ID:c3cf6cf8ffc3ed81a1152f8176078a2f66f1ee73a7195e22b4ab6962cb688d4a}
+2018/12/19 12:02:51 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[227 90 100 23] Payload:[]}
+2018/12/19 12:02:51 {Type:tx ID:66da711abb13a3cff9943151ad078b5c3f82e36b0339592b7280a253eaff1673}
+2018/12/19 12:02:54 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[190 139 2 246] Payload:[]}
+2018/12/19 12:02:54 {Type:tx ID:8133cfa17592006e38aa379e681bd3a86c0e8b8a2784cf531bac8b921eb9c237}
+2018/12/19 12:02:59 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[124 84 91 46] Payload:[]}
+2018/12/19 12:02:59 {Type:tx ID:50314b621626650c5264ff2ed82e22cd5e0ff9cb5fcdb181b42fee9180089035}
+2018/12/19 12:03:04 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[125 218 99 224] Payload:[]}
+2018/12/19 12:03:04 {Type:tx ID:7323cfa824fe0c4c93351af991c1c074892d3d960e761d55ca55760b91f228b7}
+2018/12/19 12:03:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[7 208 216 188] Payload:[]}
+2018/12/19 12:03:05 {Type:consensus ID:c809a460dc8fbfef514021fcf7844b70b1d57f717c1b32a3a07efa371a590cba}
+2018/12/19 12:03:05 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[184 152 190 26] Payload:[]}
+2018/12/19 12:03:05 {Type:consensus ID:9c45ec326ac6ba3ea5709010983bf4c9d951ff3ea7044fb2d2a7047cdbea6a67}
+2018/12/19 12:03:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[186 47 221 153] Payload:[]}
+2018/12/19 12:03:06 {Type:consensus ID:cd62fba0cebdd311b8ce596c719ee449f68ee3765c93eb5d89f14e9e6a8ca92e}
+2018/12/19 12:03:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[208 200 196 138] Payload:[]}
+2018/12/19 12:03:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[65 50 191 146] Payload:[]}
+2018/12/19 12:03:06 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[218 183 43 48] Payload:[]}
+2018/12/19 12:03:06 {Type:consensus ID:a94bb86bc018bdc01efece142d59a7fdf51399fb5a12a927680c4e7017a12ff4}
+2018/12/19 12:03:06 {Type:consensus ID:fab8748eaa1e034a8de51ac4cc656a5d0dc63d90f2fa1135717d8634b28cb210}
+2018/12/19 12:03:06 {Type:consensus ID:f816017978c250910429f1edcc43f66faacba114baf9a31101ac533b8e1f359a}
+2018/12/19 12:03:07 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[243 14 33 70] Payload:[]}
+2018/12/19 12:03:07 {Type:consensus ID:f4ab2ef9ecb739601eb8d09742eae03e3cf485e6f3279ebccebec51bf0356230}
+2018/12/19 12:03:13 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[201 254 95 72] Payload:[]}
+2018/12/19 12:03:13 {Type:tx ID:2cf7f87ff2f623c0761b111173fdd565b2cb13e78265a7cefd6d49f4905677ce}
+2018/12/19 12:03:21 msg = &{Magic:7630401 Command:inv Length:34 Checksum:[145 85 141 100] Payload:[]}
+2018/12/19 12:03:21 {Type:consensus ID:e4e772ab0a71a1fbbc71afbc599464fb2875d1ab93d54635e61b18d9a1dd02d8}
